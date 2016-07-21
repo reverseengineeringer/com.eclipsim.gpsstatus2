@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">അംഗീകരിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s എന്നതിന് നിലവിൽ ലഭ്യമല്ലാത്ത ഒന്നോ അതിൽ കൂടുതലോ Google Play സേവനങ്ങൾ ആവശ്യമാണ്. സഹായത്തിന് ഡെവലപ്പറെ ബന്ധപ്പെടുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play സേവനങ്ങൾ സ്വീകരിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ, %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">നിങ്ങളുടെ ടാബ്‌ലെറ്റിൽ നിന്നും വിട്ടുപോയിരിക്കുന്ന Google Play സേവനങ്ങളില്ലാതെ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play സേവനങ്ങൾ നേടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">വ്യക്തമാക്കിയ അക്കൗണ്ട് ഈ ഉപകരണത്തിൽ നിലവിലില്ല. മറ്റൊരു അക്കൗണ്ട് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">അക്കൗണ്ട് അസാധുവാണ്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play സേവനങ്ങളിലേയ്ക്ക് കണക്റ്റുചെയ്യുന്നതിന് ഒരു ഡാറ്റ കണക്ഷൻ ആവശ്യമാണ്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">നെറ്റ്‌വർക്ക് പിശക്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play സേവനങ്ങളിലെ പിശക്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$s ആപ്പിന് ആവശ്യമായ നടപടി പൂർത്തിയാക്കുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play സേവനങ്ങൾ ഒരു നടപടി ആവശ്യപ്പെടുന്നു</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">നിയന്ത്രിത പ്രൊഫൈലിൽ നിന്നുള്ള അക്കൗണ്ടുകൾ ആക്സസ് ചെയ്യുന്നതിന് പിന്തുണയില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">നിയന്ത്രിത പ്രൊഫൈൽ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">നിർദ്ദിഷ്‌ട അക്കൗണ്ടിൽ സൈൻ ഇൻ ചെയ്യുന്നതിൽ പിശക്. മറ്റൊരു അക്കൗണ്ട് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">സൈൻ ഇൻ പരാജയപ്പെട്ടു</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">Google Play സേവനങ്ങളുമായി ബന്ധപ്പെട്ട് %1$s ബുദ്ധിമുട്ട് നേരിടുന്നു. പ്രശ്നം പരിഹരിക്കപ്പെടുന്നില്ലെങ്കിൽ, സഹായത്തിന് ഡെവലപ്പറെ ബന്ധപ്പെടുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്ക്കാത്ത Google Play സേവനങ്ങളെയാണ് %1$s ആശ്രയിക്കുന്നത്. സഹായത്തിനായി നിർമ്മാതാവിനെ ബന്ധപ്പെടുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play സേവനങ്ങൾ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">നിങ്ങൾ Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">നിലവിൽ അപ്‌ഡേറ്റുചെയ്യുന്ന Google Play സേവനങ്ങൾ ഇല്ലാതെ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുകയാണ്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play സേവനങ്ങളുടെ പുതിയ പതിപ്പ് ആവശ്യമാണ്. താമസിയാതെ ഇത് സ്വയം അപ്‌ഡേറ്റുചെയ്യും.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">ഫോണിൽ തുറക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">ഒരു കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">നിരസിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">ചിത്ര ഗാലറിയിൽ ചിത്രം സംഭരിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">ചിത്രം സംരക്ഷിക്കുക</string>
+</resources>

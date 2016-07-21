@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Nõustu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">Rakenduse %1$s kasutamiseks on vaja ühte või mitut Google Play teenust, mis pole praegu saadaval. Abi saamiseks võtke ühendust arendajaga.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Lubage Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play teenuste lubamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Hangi Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie telefonis pole.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie tahvelarvutis pole.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play teenuste hankimine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Vale konto</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Võrgu viga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Viga Google Play teenustes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Tehke rakenduse %1$s nõutud toiming.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play teenused nõuavad toimingut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Juurdepääsu kontodele piiratud profiililt ei toetata.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Piiratud profiil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Määratud kontole sisselogimisel ilmnes viga. Valige teine konto.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Sisselogimine ebaõnnestus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">Rakendusel %1$s on probleeme Google Play teenustega. Kui probleem püsib, võtke abi saamiseks ühendust arendajaga.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">Rakendus %1$s toetub Google Play teenustele, mida teie seadmes ei toetata. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Värskenda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play teenuste värskendamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play teenuseid värskendatakse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Ava telefonis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Logi sisse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">"Logi sisse Google'i kontoga"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Kas lubada reklaamil luua kalendrisündmus?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Loo kalendrisündmus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Keeldu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Kas lubada reklaamil salvestada pilt pildigaleriisse?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Salvesta kujutis</string>
+</resources>

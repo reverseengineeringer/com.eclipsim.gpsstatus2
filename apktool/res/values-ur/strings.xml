@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">قبول کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">‏%1$s کو ایک یا زیادہ Google Play سروسز درکار ہیں جو فی الحال دستیاب نہیں ہیں۔ براہ کرم معاونت کیلئے ڈیولپر سے رابطہ کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">‏Google Play سروسز فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">‏Google Play سروسز فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">‏Google Play سروسز حاصل کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">‏Google Play سروسز حاصل کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">غلط اکاؤنٹ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">‏Google Play سروسز سے منسلک ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">نیٹ ورک میں خرابی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">‏Google Play سروسز کی خرابی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">براہ کرم %1$s کی جانب سے درکار کاروائی مکمل کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">‏Google Play سروسز کو کاروائی درکار ہے</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">کسی محدود پروفائل سے اکاؤنٹس تک رسائی کرنا تعاون یافتہ نہیں ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">محدود پروفائل</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">متعینہ اکاؤنٹ میں سائن ان کرنے میں خرابی آگئی۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">سائن ان کرنا ناکام ہوگیا</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">‏%1$s کو Google Play سروسز کے ساتھ ایک مسئلہ پیش آ رہا ہے۔ اگر مسئلہ جاری رہتا ہے تو براہ کرم معاونت کیلئے ڈیولپر سے رابطہ کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">‏%1$s Google Play سروسز پر انحصار کرتی ہے، جو آپ کے آلہ کی جانب سے تعاون یافتہ نہیں ہے۔ مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">‏Google Play سروسز</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">‏Google Play سروسز اپ ڈیٹ ہو رہی ہیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">فون پر کھولیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">سائن ان کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">اشتہار کو کیلنڈر ایونٹ بنانے دیں؟</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">کیلنڈر ایونٹ بنائیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">مسترد کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">اشتہار کو تصویری گیلری میں تصویر جمع کرانے کی اجازت دیں؟</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">تصویر محفوظ کریں</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>stupně/sec (°/s)</item>
+        <item>míle/sec (mil/s)</item>
+        <item>otáček/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 hodina</item>
+        <item>6 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>3 dny</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>S</item>
+        <item>S-SV</item>
+        <item>SV</item>
+        <item>V-SV</item>
+        <item>V</item>
+        <item>V-JV</item>
+        <item>JV</item>
+        <item>J-JV</item>
+        <item>J</item>
+        <item>J-JZ</item>
+        <item>JZ</item>
+        <item>Z-JZ</item>
+        <item>Z</item>
+        <item>Z-SZ</item>
+        <item>SZ</item>
+        <item>S-SZ</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>Foot-candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metr, km</item>
+        <item>stopa, míle</item>
+        <item>stopa, námořní míle</item>
+        <item>metr, míle (statut)</item>
+        <item>metr, míle (námořní)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Žádné filtrování</item>
+        <item>Slabé</item>
+        <item>Střední</item>
+        <item>Silné</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>stupně (°)</item>
+        <item>míle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>Mřížky OS</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Když se GPS používá</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>stupně (°)</item>
+        <item>stoupání (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>milibar/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>technická atmosféra (at)</item>
+        <item>standardní atmosféra (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>uzel</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsia</item>
+        <item>°Fahrenheita</item>
+        <item>Kelviny</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Výchozí</item>
+        <item>Denní světlo</item>
+        <item>Noc</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Bez reklam</item>
+        <item>Plánované stahování aGPS dat na pozadí</item>
+        <item>Další senzory na stavové obrazovce</item>
+        <item>Uložení a zobrazení více bodů na obrazovce se radarem</item>
+        <item>Správa neomezeného počtu bodů na samostatné obrazovce</item>
+        <item>Export/import/sdílení více bodů</item>
+        <item>Stažení aGPS data přímo z oznamovacího panelu</item>
+        <item>Uložení aktuální pozice z oznamovacího panelu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Қабылдау</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s үшін қазіргі уақытта қолжетімді емес бір немесе бірнеше Google Play қызметі қажет. Көмек алу үшін әзірлеушіге хабарласыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play қызметтерін қосу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play қызметтерін қосу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play қызметтерін алу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">Google Play қызметтері телефонда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">Google Play қызметтері планшетте болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play қызметтерін алу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Бұл құрылғыда көрсетілген тіркелгі жоқ. Басқа тіркелгіні таңдаңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Жарамсыз тіркелгі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play қызметтеріне қосылу үшін, деректер байланысы қажет.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Желі қатесі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play қызметтерінің қатесі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$s талап ететін әрекетті орындаңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play қызметтері әрекетті талап етеді</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Шектелген профильден есептік жазбаларға кіру мүмкін емес.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Шектелген профиль</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Көрсетілген есептік жазбаға кіру кезіндегі қате. Басқа есептік жазбаны таңдаңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Кіру сәтсіз аяқталды</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s қолданбасында Google Play қызметтерімен мәселе бар. Мәселе жалғасса, көмек алу үшін әзірлеушіге хабарласыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s құрылғыңыз қолдау көрсетпейтін Google Play қызметтеріне негізделген. Көмек алу үшін өндірушіге хабарласыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play қызметтері</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Жаңарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play қызметтерін жаңарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play қызметтері жаңартылуда</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Телефонда ашу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Кіру</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google арқылы кіру</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Құлақтандыруға күнтізбе оқиғасын жасауға рұқсат ету керек пе?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Күнтізбе оқиғасын жасау</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Бас тарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Құлақтандыруға кескінді суреттер галереясында сақтауға рұқсат ету керек пе?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Кескінді сақтау</string>
+</resources>

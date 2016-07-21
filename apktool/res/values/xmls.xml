@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060000">  \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060001"> \u000b.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060002">" \u001d\u0009.xml"</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060003">  \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060004">\u001f .xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060005">  \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060006">\u000c \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060007">\u001f\u000b.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f060009">  \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMYVAL_0x7f06000a">  \u0009.xml</item>
+    <item type="xml" name="APKTOOL_DUMMY_8">false</item>
+</resources>

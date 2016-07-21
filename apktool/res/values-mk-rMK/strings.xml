@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Движи се кон дома</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Движи се нагоре</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Повеќе опции</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Види ги сите</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Избери апликација</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ИСКЛУЧЕНО</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ВКЛУЧЕНО</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Пребарување…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Исчисти барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Пребарај барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Пребарај</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Поднеси барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Гласовно пребарување</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Сподели со</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Собери</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

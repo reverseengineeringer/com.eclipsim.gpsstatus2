@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0004" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0057" parent="@style/APKTOOL_DUMMYVAL_0x7f0c0082" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0058" parent="@style/APKTOOL_DUMMYVAL_0x7f0c0083" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0080" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0081" parent="@android:style/WindowTitle" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0084" parent="@android:style/WindowTitleBackground" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0085" parent="@android:style/Widget.Material.RatingBar.Indicator" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0086" parent="@android:style/Widget.Material.RatingBar.Small" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0082" parent="@style/APKTOOL_DUMMYVAL_0x7f0c007e">
+        <item name="APKTOOL_DUMMYVAL_0x7f010042">?android:actionBarItemBackground</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010043">?android:actionMenuTextAppearance</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010044">?android:actionMenuTextColor</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010084">@drawable/APKTOOL_DUMMYVAL_0x7f020012</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010095">?android:ratingBarStyleIndicator</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010096">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0083" parent="@style/APKTOOL_DUMMYVAL_0x7f0c007f">
+        <item name="APKTOOL_DUMMYVAL_0x7f010042">?android:actionBarItemBackground</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010043">?android:actionMenuTextAppearance</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010044">?android:actionMenuTextColor</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010084">@drawable/APKTOOL_DUMMYVAL_0x7f020012</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010095">?android:ratingBarStyleIndicator</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010096">?android:ratingBarStyleSmall</item>
+    </style>
+</resources>

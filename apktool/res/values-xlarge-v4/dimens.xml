@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b0006">60.000004%</item>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b0007">90.0%</item>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b0008">50.0%</item>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b0009">70.00001%</item>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b000a">45.000004%</item>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f0b000b">72.0%</item>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0b000c">192.0dip</dimen>
+</resources>

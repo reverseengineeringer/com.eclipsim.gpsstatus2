@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">गृह खोज्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">माथि खोज्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">थप विकल्पहरू</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">सम्पन्न भयो</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">सबै हेर्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">एउटा अनुप्रयोग छान्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">निष्क्रिय पार्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">सक्रिय गर्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">खोज्नुहोस्...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">प्रश्‍न हटाउनुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">जिज्ञासाको खोज गर्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">खोज्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">जिज्ञासा पेस गर्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">भ्वाइस खोजी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">साझेदारी गर्नुहोस्...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s सँग साझेदारी गर्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">संक्षिप्त पार्नुहोस्</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">९९९+</string>
+</resources>

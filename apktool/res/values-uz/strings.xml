@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Qabul qilish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s ilovasining ishlashi uchun zarur bo‘lgan bir yoki bir nechta Google Play xizmatlari yo‘q. Yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play xizmatlarini yoqish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play xizmatlarini yoqish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play xizmatlarini o‘rnatish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s ishlashi uchun telefoningizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s ishlashi uchun planshetingizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play xizmatlarini o‘rnatish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Ushbu qurilmada ko‘rsatilgan hisob mavjud emas. Boshqa hisobni tanlang.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Hisob haqiqiy emas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play xizmatlariga ulanish uchun internetga ulanish lozim.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Tarmoq xatosi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play xizmatlari xatosi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$s ilovasi talab qilgan amalni bajaring.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Amal bajarish talab qilinadi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Cheklangan profildan hisoblarga kirish qo‘llab-quvvatlanmaydi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Cheklangan profil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Ko‘rsatilgan hisobga kirishda xatolik yuz berdi. Boshqa hisob tanlang.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Kirish amalga oshmadi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s ilovasi Google Play xizmatlari bilan muammoga uchradi. Agar muammo hal bo‘lmasa, yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi. Yordam olish uchun qurilmaning ishlab chiqaruvchisi bilan bog‘laning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play xizmatlari</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Yangilash</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play xizmatlarini yangilash</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play xizmatlari yangilanmoqda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play xizmatlarining yangi versiyasi zarur. U o‘zini qisqa vaqt ichida yangilaydi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Telefonda ochish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Kirish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google orqali kirish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Reklamaga taqvim tadbirini yaratishga ruxsat berilsinmi?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Taqvim tadbirini yaratish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Rad qilish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Reklamaga rasmni gallereyaga saqlashga ruxsat berilsinmi?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Rasmni saqlash</string>
+</resources>

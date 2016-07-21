@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>도/초 (°/s)</item>
+        <item>밀/초 (mil/s)</item>
+        <item>회전/분(rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 시간</item>
+        <item>6 시간</item>
+        <item>1 일</item>
+        <item>2 일</item>
+        <item>3 일</item>
+        <item>절대 안함</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SW</item>
+        <item>SW</item>
+        <item>W-SW</item>
+        <item>W</item>
+        <item>W-NW</item>
+        <item>NW</item>
+        <item>N-NW</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>촉</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>미터, 킬로미터</item>
+        <item>피트, 마일 (법령)</item>
+        <item>피트, 마일 (항해)</item>
+        <item>미터, 마일 (법령)</item>
+        <item>미터, 마일 (항해)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>필터링 없음</item>
+        <item>약함</item>
+        <item>중간</item>
+        <item>강함</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>도 (°)</item>
+        <item>마일</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS 그리드</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>GPS 사용중일 때</item>
+        <item>절대 안함</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>도 (°)</item>
+        <item>등급 (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibar/hPa</item>
+        <item>토르 (mmHg)</item>
+        <item>psi (제곱인치 당 파운드)</item>
+        <item>inHg</item>
+        <item>공학 기압 (at)</item>
+        <item>표준 기압 (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>Km/h</item>
+        <item>Mph</item>
+        <item>m/s</item>
+        <item>Knots</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°C(섭씨)</item>
+        <item>°F(화씨)</item>
+        <item>켈빈 온도</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>기본</item>
+        <item>주간</item>
+        <item>야간</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>광고없이 동작</item>
+        <item>백그라운드에서 예정된 aGPS 데이터 다운로드</item>
+        <item>더 많은 센서를 상태 화면에 표시</item>
+        <item>레이더 화면에 여러 웨이포인트를 저장하고 표시하기</item>
+        <item>별도 위치 화면에 무제한의 웨이포인트 관리</item>
+        <item>여러 웨이포인트를 내보내기/가져오기/공유하기</item>
+        <item>상태 알림에서 직접 aGPS 데이터를 다운로드</item>
+        <item>상태 알림을 사용하여 현재 위치를 저장</item>
+    </string-array>
+</resources>

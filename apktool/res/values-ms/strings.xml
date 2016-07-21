@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Terima</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s memerlukan satu atau beberapa perkhidmatan Google Play yang tidak tersedia pada masa ini. Sila hubungi pembangun untuk mendapatkan bantuan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Dayakan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Dayakan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Dapatkan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada tablet anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Dapatkan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Akaun yang dinyatakan tidak wujud pada peranti ini. Sila pilih akaun yang lain.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Akaun Tidak Sah</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Sambungan data diperlukan untuk menyambung ke perkhidmatan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Ralat Rangkaian</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Ralat perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Sila selesaikan tindakan yang diperlukan oleh %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Perkhidmatan Google Play memerlukan tindakan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Tidak menyokong akses akaun daripada profil terhad.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Profil Terhad</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Ralat melog masuk ke akaun yang dinyatakan. Sila pilih akaun yang berbeza.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Gagal melog masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s menghadapi masalah dengan perkhidmatan Google Play. Jika masalah berterusan, sila hubungi pembangun untuk mendapatkan bantuan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s bergantung pada perkhidmatan Google Play, yang tidak disokong oleh peranti anda. Hubungi pengeluar untuk mendapatkan bantuan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Kemas kini</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Perkhidmatan Google Play sdg dikemaskini</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Buka pada telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Log masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Log masuk dengan Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Benarkan Iklan membuat acara kalendar?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Buat acara kalendar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Tolak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Benarkan Iklan menyimpan imej dalam galeri Gambar?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Simpan imej</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">მთავარზე ნავიგაცია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">ზემოთ ნავიგაცია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">მეტი ვარიანტები</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">დასრულდა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">ყველას ნახვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">აპის არჩევა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">გამორთულია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ჩართულია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">ძიება...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">მოთხოვნის გასუფთავება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">ძიების მოთხოვნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">ძიება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">მოთხოვნის გადაგზავნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">ხმოვანი ძიება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">გაზიარება:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s-თან გაზიარება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">აკეცვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

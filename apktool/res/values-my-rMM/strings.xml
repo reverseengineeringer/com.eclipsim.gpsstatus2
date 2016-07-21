@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">မူလနေရာကို သွားရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s၊ %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s ၊ %2$s ၊ %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">အပေါ်သို့သွားရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">ပိုမိုရွေးချယ်စရာများ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">ပြီးဆုံးပါပြီ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">အားလုံးကို ကြည့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">အပလီကေးရှင်း တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ပိတ်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ဖွင့်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">ရှာဖွေပါ...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">ရှာစရာ အချက်အလက်များ ရှင်းလင်းရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">ရှာစရာ အချက်အလက်နေရာ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">ရှာဖွေရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">အသံဖြင့် ရှာဖွေခြင်း</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">မျှဝေဖို့ ရွေးပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s ကို မျှဝေပါရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">ခေါက်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">၉၉၉+</string>
+</resources>

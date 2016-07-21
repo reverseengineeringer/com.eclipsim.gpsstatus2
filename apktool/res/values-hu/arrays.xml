@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>fok/mp (°/mp)</item>
+        <item>mil/mp (mil/mp)</item>
+        <item>fordulat/perc (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 óra</item>
+        <item>6 óra</item>
+        <item>1 nap</item>
+        <item>2 nap</item>
+        <item>3 nap</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>É</item>
+        <item>É-ÉK</item>
+        <item>ÉK</item>
+        <item>K-ÉK</item>
+        <item>K</item>
+        <item>K-DK</item>
+        <item>DK</item>
+        <item>D-DK</item>
+        <item>D</item>
+        <item>D-DNy</item>
+        <item>DNy</item>
+        <item>Ny-DNy</item>
+        <item>Ny</item>
+        <item>Ny-ÉNy</item>
+        <item>ÉNy</item>
+        <item>É-ÉNy</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>méter</item>
+        <item>láb, mérföld</item>
+        <item>láb, tengeri mérföld</item>
+        <item>méter, mérföld (szárazföldi)</item>
+        <item>méter, mérföld (tengeri)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Nincs szűrés</item>
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>fok (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>FF.FFFFFF°</item>
+        <item>"FF°PP.PPP'"</item>
+        <item>"FF°PP'MM.M\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Amikor a GPS haszálatban van</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>fok (°)</item>
+        <item>meredekség (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibar/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>technikai atmoszféra (at)</item>
+        <item>szabvány atmoszféra (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>csomó</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Szoba</item>
+        <item>Napfény</item>
+        <item>Éjszaka</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Reklámmentes működés</item>
+        <item>Ütemezett aGPS adat letöltés a háttérben</item>
+        <item>Több szenzor a Státusz képernyőn</item>
+        <item>Több navigációs pont a Radaron</item>
+        <item>Korlátlan számú navigációs pont kezelése</item>
+        <item>Több navigációs pont megosztása, kimentése és betöltése</item>
+        <item>aGPS adatok letöltése az értesítés mezőben</item>
+        <item>Az aktuális pozíció mentése az értesítési mezőben</item>
+    </string-array>
+</resources>

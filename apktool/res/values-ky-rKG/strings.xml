@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Үйгө багыттоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Жогору</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Көбүрөөк мүмкүнчүлүктөр</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Даяр</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Бардыгын көрүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Колдонмо тандоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ӨЧҮК</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">КҮЙҮК</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Издөө…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Талаптарды тазалоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Издөө талаптары</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Издөө</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Талап жөнөтүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Үн аркылуу издөө</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Бөлүшүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s аркылуу бөлүшүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Жыйнап коюу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

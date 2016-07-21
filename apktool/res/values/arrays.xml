@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>degrees/sec (°/s)</item>
+        <item>mil/sec (mil/s)</item>
+        <item>rotation/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 hour</item>
+        <item>6 hours</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SW</item>
+        <item>SW</item>
+        <item>W-SW</item>
+        <item>W</item>
+        <item>W-NW</item>
+        <item>NW</item>
+        <item>N-NW</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>meter, km</item>
+        <item>foot, mile (statute)</item>
+        <item>foot, mile (nautical)</item>
+        <item>meter, mile (statute)</item>
+        <item>meter, mile (nautical)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>No filtering</item>
+        <item>Weak</item>
+        <item>Medium</item>
+        <item>Strong</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>degrees (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>When GPS is in use</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>degrees (°)</item>
+        <item>grade (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibar/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>technical atmosphere (at)</item>
+        <item>standard atmosphere (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>knots</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Default</item>
+        <item>Daylight</item>
+        <item>Night</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Ad free operation</item>
+        <item>Scheduled aGPS data download in the background</item>
+        <item>More sensors on the Status screen</item>
+        <item>Store and show multiple waypoints on the Radar screen</item>
+        <item>Manage unlimited waypoints on a separate Locations screen</item>
+        <item>Export/import/share multiple waypoints</item>
+        <item>Download aGPS data directly from the status notification</item>
+        <item>Save your current location using the status notification</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000f">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090010">
+        <item>3600</item>
+        <item>21600</item>
+        <item>86400</item>
+        <item>172800</item>
+        <item>259200</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090011">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090012">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090013">
+        <item>1.0</item>
+        <item>0.2</item>
+        <item>0.1</item>
+        <item>0.04</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090014">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090015">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090016">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090019">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09001a">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09001c">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09001d">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_17">false</item>
+    <item type="array" name="APKTOOL_DUMMY_18">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1e">false</item>
+</resources>

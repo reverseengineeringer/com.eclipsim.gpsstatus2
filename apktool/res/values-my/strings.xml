@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">လက်ခံရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s သည် ယခုမရရှိနိုင်သေးသည့် Google Play ဝန်ဆောင်မှု တစ်ခုသို့မဟုတ် တစ်ခုထက်ပို၍ လိုအပ်သည်။ အကူအညီလိုလျှင် ဆော့ဖ်ဝဲအင်ဂျင်နီယာကို ဆက်သွယ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Google Play ဝန်ဆောင်မှုများကို မဖွင့်သ၍ %1$s သည်အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play ဝန်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play ဝန်ဆောင်မှုများကိုရယူရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">သင့်ဖုန်းတွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် %1$s ကိုဖွင့်၍မရပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">သင့်တပ်ဘလက်တွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် %1$s ကိုဖွင့်၍မရပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play ဝန်ဆောင်မှုများရယူရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">ဤကိရိယာမှာ ဖေါ်ပြပါ အကောင့်မရှိပါ။ ကျေးဇူးပြု၍ အခြား အကောင့်ကို ရွေးပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">မမှန်သည့် အကောင့်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play ဝန်ဆောင်မှုများသို့ ဆက်သွယ်ရန် ဒေတာချိတ်ဆက်မှု လိုအပ်သည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">ကွန်ရက် အမှား</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google ပလေး ဝန်ဆောင်မှုများ အမှား</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$s မှလိုအပ်သည့် လုပ်ဆောင်ချက်ကို ပြီးမြောက်အောင်လုပ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play ဝန်ဆောင်မှုများ လုပ်ဆောင်ချက်တစ်ခု လိုအပ်သည်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">တားမြစ်ထားသည့် ကိုယ်ရေးအချက်အလက်မှ အကောင့်များကိုသုံးစွဲခွင့်မရှိပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">တားမြစ်ထားသည့် ကိုယ်ရေးအချက်အလက်များ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">သတ်မှတ်ထားသောအကောင့်သို့ လက်မှတ်ထိုးဝင်ရောက်ရာတွင် မှားယွင်းနေပါသည်။ ကျေးဇူးပြု၍ အခြားအကောင့်တစ်ခုကို ရွေးချယ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">လက်မှတ်ထိုးဝင်ရောက်ခြင်း မအောင်မြင်ပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာရှိနေသည်။ ပြဿနာရှိနေသေးလျှင်၊ အကူအညီအတွက် ဆော့ဖ်ဝဲအင်ဂျင်နီယာကို ဆက်သွယ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s သည်သင့်စက်ပစ္စည်းမှ မထောက်ပံ့သည့် Google Play ဝန်ဆောင်မှုများအပေါ် မှီခိုနေရသည်။ အကူအညီလိုလျှင် ထုတ်လုပ်သူကို ဆက်သွယ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google ပလေး ဝန်ဆောင်မှုများ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">အပ်ဒိတ်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Google Play ဝန်ဆောင်မှုများအား မွမ်းမံခြင်းမရှိပါက %1$s အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">Google Play ဝန်ဆောင်မှုများကို လက်ရှိအပ်ဒိတ်လုပ်နေသောကြောင့် %1$s ကိုဖွင့်၍ရမည်မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်နေသည်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play ဝန်ဆောင်မှုဗားရှင်းအသစ်များ လိုအပ်နေသည်။ အချိန်အနည်းငယ်အကြာတွင် ၎င်းကိုယ်တိုင်အပ်ဒိတ်လုပ်ပါ လိမ့်မည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">ဖုန်းပေါ်မှာ ဖွင့်ပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google ဖြင့် လက်မှတ်ထိုးဝင်ရေ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">ကြော်ငြာကို ပြက္ခဒိန်ဖြစ်ရပ် ဖန်တီးရန် ခွင့်ပြုမလား။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">ပြက္ခဒိန်ဖြစ်ရပ် ဖန်တီးပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">လက်မခံပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">ကြော်ငြာအား ဓာတ်ပုံကို ဓာတ်ပုံပြခန်းတွင် သိမ်းဆည်းခွင့်ပြုမလား။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">ဓာတ်ပုံကို သိမ်းဆည်းပါ</string>
+</resources>

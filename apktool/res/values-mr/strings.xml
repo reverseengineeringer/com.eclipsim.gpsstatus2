@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">स्वीकार करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s ला सध्‍या उपलब्‍ध नसलेल्‍या एक किंवा अधिक Google Play सेवांची आवश्‍यकता आहे. कृपया सहाय्यासाठी विकासकाशी संपर्क साधा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play सेवा सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">आपण Google Play सेवा सक्षम केल्याशिवाय %1$s हा अॅप कार्य करणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play सेवा सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play सेवा मिळवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">आपल्‍या फोनवर गहाळ असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">आपल्‍या टॅब्लेटवर गहाळ असलेल्‍या Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play सेवा मिळवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">निर्दिष्ट केलेले खाते या डिव्हाइसवर अस्तित्वात नाही. कृपया एक भिन्न खाते निवडा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">अवैध खाते</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play सेवांशी कनेक्ट होण्यासाठी डेटा कनेक्शन आवश्यक आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">नेटवर्क त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play सेवा त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">कृपया %1$s साठी आवश्यक असलेली क्रिया पूर्ण करा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play सेवांना क्रिया आवश्यक आहे</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">प्रतिबंधित प्रोफाईलवरून खात्यांमध्ये प्रवेश करणे समर्थित नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">प्रतिबंधित प्रोफाईल</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">निर्दिष्ट खात्यात साइन इन करताना त्रुटी. कृपया एक भिन्न खाते निवडा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">साइन इन अयशस्वी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s ला Google Play सेवांसह समस्या येत आहे. समस्या कायम राहिल्यास, कृपया सहाय्यासाठी विकासकाशी संपर्क साधा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s Google Play सेवांवर अवलंबून असतो, ज्या आपल्‍या डिव्‍हाइसवर समर्थित नाही. सहाय्यासाठी निर्मात्याशी संपर्क साधा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play सेवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">आपण Google Play सेवा अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play सेवा अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play सेवा अद्यतनित होत आहेत</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अद्यतनित करेल.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">फोनवर उघडा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">साइन इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google सह साइन इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">कॅलेंडर इव्हेंट तयार करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">नकार द्या</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">चित्र गॅलरीत प्रतिमा संग्रहित करण्याची जाहिरातीस अनुमती द्यायची?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">प्रतिमा जतन करा</string>
+</resources>

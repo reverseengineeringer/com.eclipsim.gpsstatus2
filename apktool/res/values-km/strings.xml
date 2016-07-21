@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">ទទួល</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s តម្រូវឲ្យមានសេវាកម្ម Google Play មួយ ឬច្រើន ប៉ុន្តែវាមិនមានផ្តល់ជូនទេបច្ចុប្បន្ននេះ។ សូមទាក់ទងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលជំនួយ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">បើកសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s នឹងមិនដំណើរការទេ បើទូរស័ព្ទរបស់អ្នកមិនមានសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s នឹងមិនដំណើរការទេ បើថេប្លេតរបស់អ្នកមិនមានសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">គណនី​មិន​ត្រឹមត្រូវ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">តម្រូវឲ្យមានការភ្ជាប់ទិន្នន័យ ដើម្បីភ្ជាប់សេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">កំហុស​​បណ្ដាញ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">សូមបំពេញសកម្មភាពដែលតម្រូវដោយ %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">សេវាកម្ម Google Play តម្រូវឲ្យមានសកម្មភាពណាមួយ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">ការចូលដំណើរការគណនីចេញពីប្រវត្តិរូបដែលបានរឹតបន្តឹងមិនត្រូវបានគាំទ្រទេ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">ប្រវត្តិរូបដែលបានរឹតបន្តឹង</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">កំហុសក្នុងការចូលគណនីជាក់លាក់។ សូមជ្រើសរើសគណនីផ្សេងទៀត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">បានបរាជ័យក្នុងការចូល</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្ម Google Play។ ប្រសិនបើបញ្ហានេះនៅតែបន្តកើតមាន សូមទាក់ទងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលបានជំនួយ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s ពឹងផ្អែកលើសេវាកម្ម Google Play ប៉ុន្តែវាមិនគាំទ្រនៅលើឧបករណ៍របស់អ្នកទេ។ សូមទាក់ទងក្រុមហ៊ុនផលិតដើម្បីទទួលជំនួយ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">សេវាកម្ម​កម្សាន្ត​ Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">អាប់ដេត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">សេវាកម្ម Google Play កំពុងអាប់ដេត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">បើកតាមទូរស័ព្ទ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">ចូល</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">ចូលដោយប្រើ Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">អនុញ្ញាតឲ្យពាណិជ្ជកម្មបង្កើតព្រឹត្តិការណ៍ក្នុងប្រតិទិនឬ?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">បង្កើតព្រឹត្តិការណ៍ក្នុងប្រតិទិន</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">បដិសេធ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">អនុញ្ញាតឲ្យពាណិជ្ជកម្មផ្ទុករូបភាពនៅក្នុងវិចិត្រសាលរូបភាពឬ?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">រក្សាទុករូបភាព</string>
+</resources>

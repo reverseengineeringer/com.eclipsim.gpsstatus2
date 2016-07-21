@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>graus/seg (°/s)</item>
+        <item>mil/seg (mil/s)</item>
+        <item>rotação/minuto (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>3 dias</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SO</item>
+        <item>SO</item>
+        <item>O-SO</item>
+        <item>O</item>
+        <item>O-NO</item>
+        <item>NO</item>
+        <item>N-NO</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metros, km</item>
+        <item>pés, milhas (terrestres)</item>
+        <item>pés, milhas (náuticas)</item>
+        <item>metros, milhas(terrestres)</item>
+        <item>metros, milhas(náuticas)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Sem filtro</item>
+        <item>Fraco</item>
+        <item>Médio</item>
+        <item>Forte</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>graus (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid(Sistema Inglês)</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Quando o GPS está em uso</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>graus (°)</item>
+        <item>grau (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>milibar/hPa</item>
+        <item>Torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>atmosfera técnica (at)</item>
+        <item>atmosfera padrão (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>nós</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Padrão</item>
+        <item>Luz do dia</item>
+        <item>Noite</item>
+    </string-array>
+</resources>

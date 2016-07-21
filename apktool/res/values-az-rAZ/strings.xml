@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Evə get</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Yuxarı get</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Daha çox seçim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Hazırdır</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Hamısına baxın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Tətbiq seçin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">DEAKTİV</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">AKTİV</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Axtarış...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Sorğunu təmizlə</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Axtarış sorğusu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Axtarış</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Sorğunu göndərin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Səsli axtarış</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Bununla paylaşın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Dağıt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

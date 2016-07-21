@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>درجهانیه (s/°)</item>
+        <item>ثانیه/مایل (mil/s)</item>
+        <item>دقیقه/گردش (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>یک ساعت</item>
+        <item>شش ساعت</item>
+        <item>یک روز</item>
+        <item>دو روز</item>
+        <item>سه روز</item>
+        <item>هیچگاه</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>شمال</item>
+        <item>شمال-شمال شرقی</item>
+        <item>شمال شرقی</item>
+        <item>شرق-شمال شرقی</item>
+        <item>شرق</item>
+        <item>شرق-جنوب شرقی</item>
+        <item>جنوب شرقی</item>
+        <item>جنوب-جنوب شرقی</item>
+        <item>جنوب</item>
+        <item>جنوب-جنوب غربی</item>
+        <item>جنوب غربی</item>
+        <item>غرب-جنوب غربی</item>
+        <item>غرب</item>
+        <item>غرب-شمال غربی</item>
+        <item>شمال غربی</item>
+        <item>شمال-شمال غربی</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>متر ، کیلومتر</item>
+        <item>فوت مایل (وضعیت)</item>
+        <item>فوت مایل (نات دریایی)</item>
+        <item>(وضعیت)متر،مایل</item>
+        <item>متر مایل (گره دریایی)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>بدون فیلتر</item>
+        <item>ضعیف</item>
+        <item>متوسط</item>
+        <item>قوی</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>(°)درجه</item>
+        <item>مایل</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD °</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>سیستم عامل شبکه ای</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>وقتی که GPS درحال استفاده است</item>
+        <item>هیچگاه</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>(°)درجه</item>
+        <item>(%)درصد</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibar/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>اتمسفر فنی (در)</item>
+        <item>اتمسفر استاندارد (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>knots</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>درجه سانتی گراد</item>
+        <item>درجه فارنهایت</item>
+        <item>درجه کلوین</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>پیش فرض</item>
+        <item>ساعت تابستاني</item>
+        <item>شب</item>
+    </string-array>
+</resources>

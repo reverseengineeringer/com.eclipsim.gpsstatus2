@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Qəbul edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s hazırda əlçatmaz olan bir və ya daha çox Google Play xidməti tələb edir. Yardım üçün istehsalçı ilə əlaqə saxlayın.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play xidmətlərini aktiv et</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play xidmətlərini aktiv edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play xidmətlərini əldə edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s telefonunuzdan yoxa çıxmış Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s planşetinizdən yoxa çıxmış Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play xidmətlərini əldə edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Göstərilmiş hesab bu cihazda mövcud deyil. Fərqli hesab seçin.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Etibarsız Hesab</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play xidmətlərinə qoşulmaq üçün data bağlantısı tələb olunur.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Şəbəkə Xətası</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play xidmətləri xətası</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Fəaliyyəti %1$s tələbinə uyğun olaraq tamamlayın.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play xidməti fəaliyyət tələb edir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Məhdudlaşdırılmış profildən hesablara giriş dəstəklənmir.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Məhdudlaşdırılmış Profil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Göstərilən hesaba daxil olarkən səhv baş verdi. Lütfən fərqli bir hesab seçin.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Daxil olmadı</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Problem davam edərsə, Yardım üçün developer ilə əlaqə saxlayın.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s cihazınız tərəfindən dəstəklənməyən Google Play xidmətlərinə əsaslanır. Yardım üçün istehsalçı ilə əlaqə saxlayın.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play xidmətləri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Güncəlləyin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play xidmətləri təzələnir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Telefonda açın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Daxil olun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google ilə daxil olun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Təqvim tədbiri yaratmaq üçün Reklama icazə verilsin?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Təqvim tədbiri yaradın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">İmtina edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Reklama təsvirləri Şəkil qalereyasında yadda saxlamağa icazə verilsin?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Şəkil yadda saxlayın</string>
+</resources>

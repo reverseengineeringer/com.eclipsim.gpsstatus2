@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">ஏற்கிறேன்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">தற்போது கிடைக்காத, ஒன்று அல்லது அதற்கு மேற்பட்ட Google Play சேவைகள் %1$sக்குத் தேவை. உதவிக்கு, டெவெலப்பரைத் தொடர்புகொள்ளவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play சேவைகளை இயக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play சேவைகளை இயக்கவும்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play சேவைகளைப் பெறுக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும். அவை தற்போது உங்கள் மொபைலில் இல்லை.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும். அவை தற்போது உங்கள் டேப்லெட்டில் இல்லை.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">இந்தச் சாதனத்தில் குறிப்பிடப்பட்ட கணக்கு இல்லை. வேறு கணக்கைத் தேர்வு செய்யவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">தவறான கணக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play சேவைகளுடன் இணைக்க, தரவு இணைப்பு தேவை.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">பிணைய பிழை</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play சேவைகள் பிழை</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$sக்குத் தேவைப்படும் செயலை முடிக்கவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play சேவைகளுக்குச் செயல்பாடு தேவை</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">வரையறுக்கப்பட்ட சுயவிவரத்திலிருந்து கணக்குகளை அணுகுவது ஆதரிக்கப்படாது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">கட்டுப்படுத்தப்பட்ட சுயவிவரம்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">குறிப்பிட்ட கணக்கில் உள்நுழைவதில் பிழை. வேறு கணக்கைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">உள்நுழைவு தோல்வி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$sக்கு Google Play சேவைகளுடன் சிக்கல் உள்ளது. சிக்கல் தொடர்ந்தால், உதவிக்கு டெவெலப்பரைத் தொடர்புகொள்ளவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">சாதனம் ஆதரிக்காத Google Play சேவைகளை %1$s சார்ந்துள்ளது. உதவிக்கு, தயாரிப்பாளரைத் தொடர்புகொள்ளவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play சேவைகள்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">புதுப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play சேவைகளைப் புதுப்பிக்கவும்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play சேவைகளைப் புதுப்பிக்கிறது</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">மொபைலில் திற</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">உள்நுழைக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google மூலம் உள்நுழைக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">கேலெண்டர் நிகழ்வை உருவாக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">கேலெண்டர் நிகழ்வை உருவாக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">நிராகரி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">பட கேலரியில் படத்தைச் சேமிக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">படத்தைச் சேமி</string>
+</resources>

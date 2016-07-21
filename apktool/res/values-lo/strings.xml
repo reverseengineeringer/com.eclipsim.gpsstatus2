@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">ຍອມຮັບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s ຕ້ອງ​ການ​ໃຫ້​ມີ​ໜຶ່ງ​ ຫຼື​ ຫຼາຍ​ບໍ​ລິ​ການ​ຂອງ Google Play ທີ່​ບໍ່​ມີ​ໃຫ້​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ. ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​ຜູ້​ພັດ​ທະ​ນາ ເພື່ອ​ການ​ຊ່ວຍ​ເຫຼືອ​ເພີ່ມ​ເຕີມ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">ຕິດຕັ້ງການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນໂທລະສັບຂອງທ່ານ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນແທັບ​ເລັດຂອງທ່ານ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">ບັນຊີທີ່ເລືອກບໍ່ມີໃນອຸປະກອນນີ້. ກະລຸນາເລືອກບັນຊີອື່ນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">ບັນຊີບໍ່ຖືກຕ້ອງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">ຕ້ອງເຊື່ອມຕໍ່ອິນເຕີເນັດເພື່ອໃຊ້ການ​ບໍ​ລິ​ການ Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">ເຄືອຂ່າຍຜິດພາດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">ກະລຸນາເຮັດສຳເລັດການດຳເນີນການທີ່ຮຽກຮ້ອງໃຫ້ເຮັດໂດຍ %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">ການບໍລິການຂອງ Google Play ຮຽກຮ້ອງໃຫ້ມີການດຳເນີນການໃດໜຶ່ງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">ການ​ເຂົ້າ​ຫາ​ບັນ​ຊີ​ຈາກ​ໂປ​ຣ​ໄຟ​ລ໌​ທີ່​ຖືກ​ຈຳ​ກັດ​ບໍ່​ຮອງ​ຮັບ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">ໂປຣໄຟລ໌ທີ່ຖືກຈຳກັດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">ການ​ເຂົ້າ​ສູ່ລະ​ບົບ​ບັນ​ຊີ​ລະ​ບຸ​ໄວ້​ຜິດ​ພາດ. ກະ​ລຸ​ນາ​ເລືອກ​ບັນ​ຊີ​ອື່ນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">ເຂົ້າສູ່ລະບົບບໍ່​ສຳ​ເລັດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s ກຳ​ລັງ​ມີ​ບັນ​ຫາ​ກັບ​ການ​ບໍ​ລິ​ການ Google Play. ຖ້າ​ບັນ​ຫາ​ຍັງ​ສືບ​ຕໍ່, ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​​ຜູ້​ພັດ​ທະ​ນາ ເພື່ອ​ຂໍ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s ຂຶ້ນ​ກັບ​ການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ບໍ່​ຮອງ​ຮັບ. ຕິດ​ຕໍ່​ຫາ​ຜູ້​ຜະ​ລິດ​ເພື່ອ​ຂໍ​ການ​ຊ່ວຍ​ເຫຼືອ​ເພີ່ມ​ເຕີມ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">ອັບເດດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">ອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">ການ​ບໍ​ລິ​ການ Google Play ກຳ​ລັງ​ອັບ​ເດດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">ລົງຊື່ເຂົ້າໃຊ້</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">ສ້າງນັດໝາຍອື່ນ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">ປະຕິເສດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">ບັນທຶກຮູບພາບ</string>
+</resources>

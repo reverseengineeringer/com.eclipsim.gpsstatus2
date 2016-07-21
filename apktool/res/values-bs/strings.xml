@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Prihvati</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">Aplikacija %1$s traži jednu ili više Google Play usluga koje trenutno nisu dostupne. Obratite se autoru za pomoć.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Omogućite Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">Aplikacija %1$s neće raditi ako ne omogućite Google Play usluge.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Omogućite Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Nabavite Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">Aplikacija %1$s neće raditi bez Google Play usluga, koje nedostaju u vašem telefonu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">Aplikacija %1$s neće raditi bez Google Play usluga, koje nedostaju u vašem tabletu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Nabavite Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Navedeni račun ne postoji na ovom uređaju. Izaberite drugi račun.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Nevažeći račun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Za povezivanje na Google Play usluge potrebna je podatkovna veza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Greška na mreži</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Greška Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Dovršite radnju koju zahtijeva aplikacija %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play usluge zahtijevaju radnju</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Nije podržan pristup računima s ograničenog profila.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Ograničeni profil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Greška prilikom prijave na navedeni račun. Izaberite drugi račun.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Prijava nije uspjela</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">Aplikacija %1$s ima problema s Google Play uslugom. Ukoliko problem potraje, obratite se autoru za pomoć.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">Aplikacija %1$s se oslanja na Google Play usluge koje vaš uređaj ne podržava. Obratite se proizvođaču za pomoć.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play usluge</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Ažuriraj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Aplikacija %1$s neće raditi ako ne ažurirate Google Play usluge.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Ažuriranje Google Play usluga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">Aplikacija %1$s neće raditi bez Google Play usluga, koje se trenutno ažuriraju.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Ažuriranje Google Play usluga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Potrebna je nova verzija Google Play usluga. Ubrzo će se samo ažurirati.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Otvori na telefonu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Prijavi se</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Prijavi se pomoću Googlea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Želite li dozvoliti oglasu da kreira događaj u kalendaru?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Napravite događaj u kalendaru</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Odbijte</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Želite li dozvoliti da oglas pohrani sliku u Galeriju slika?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Sačuvaj sliku</string>
+</resources>

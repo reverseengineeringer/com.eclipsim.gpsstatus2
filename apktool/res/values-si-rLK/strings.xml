@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">ගෙදරට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">ඉහලට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">තවත් විකල්ප</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">අවසාන වූ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">සියල්ල බලන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">යෙදුමක් තෝරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ක්‍රියාවිරහිතයි</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ක්‍රියාත්මකයි</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">සොයන්න...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">විමසුම හිස් කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">සෙවුම් විමසුම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">සෙවීම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">විමසුම යොමු කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">හඬ සෙවීම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">සමඟ බෙදාගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s සමඟ බෙදාගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">හකුළන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">হোম এ নেভিগেট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">উপরের দিকে নেভিগেট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">আরো বিকল্প</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">সম্পন্ন হয়েছে</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">সবগুলো দেখুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">একটি অ্যাপ্লিকেশান চয়ন করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">বন্ধ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">চালু</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">অনুসন্ধান...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">ক্যোয়ারী সাফ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">ক্যোয়ারী অনুসন্ধান করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">অনুসন্ধান করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">ক্যোয়ারী জমা দিন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">ভয়েস অনুসন্ধান</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">এর সাথে ভাগ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s এর সাথে ভাগ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">সঙ্কুচিত করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">৯৯৯+</string>
+</resources>

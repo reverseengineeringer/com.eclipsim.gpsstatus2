@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>derece/saniye (°/s)</item>
+        <item>mil/saniye (mil/s)</item>
+        <item>dönüş/dakika (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 Saat</item>
+        <item>6 Saat</item>
+        <item>1 Gün</item>
+        <item>2 Gün</item>
+        <item>3 Gün</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>K</item>
+        <item>K-KD</item>
+        <item>KD</item>
+        <item>D-KD</item>
+        <item>D</item>
+        <item>D-GD</item>
+        <item>GD</item>
+        <item>G-GD</item>
+        <item>G</item>
+        <item>G-GB</item>
+        <item>GB</item>
+        <item>B-GB</item>
+        <item>B</item>
+        <item>B-KB</item>
+        <item>KB</item>
+        <item>K-KB</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>Lüks</item>
+        <item>mum ayağı</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metre</item>
+        <item>ayak</item>
+        <item>ayak, deniz mili</item>
+        <item>Metre, mil(kara)</item>
+        <item>metre, mil(Deniz)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Filtre Yok</item>
+        <item>Güçsüz</item>
+        <item>Normal</item>
+        <item>Güçlü</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>dereceler</item>
+        <item>miller</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Izgarası</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>GPS kullanılıyorsa</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>Derece</item>
+        <item>Eğim</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>milibar/pHa</item>
+        <item>torr (mmHg)</item>
+        <item>PSI</item>
+        <item>inHg</item>
+        <item>Tekniksel atmosfer(at)</item>
+        <item>Standart atmosfer (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/s</item>
+        <item>mil/s</item>
+        <item>m/s</item>
+        <item>knot</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>° C</item>
+        <item>° Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Varsayılan</item>
+        <item>Gündüz</item>
+        <item>Gece</item>
+    </string-array>
+</resources>

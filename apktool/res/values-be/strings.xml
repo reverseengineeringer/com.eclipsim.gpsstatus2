@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Прыняць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">Для %1$s патрабуецца адна ці некалькі службаў Google Play, якія зараз недаступныя. Калі ласка, звярніцеся за дапамогай да распрацоўшчыка.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Уключыць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Уключыць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Атрымаць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s не будзе працаваць без службаў Google Play, якіх няма на вашым тэлефоне.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s не будзе працаваць без службаў Google Play, якіх няма на вашым планшэце.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Атрымаць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Пазначаны ўліковы запіс не існуе на гэтай прыладзе. Выберыце іншы ўліковы запіс.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Несапраўдны ўліковы запіс</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Каб падключыць службы Google Play, неабходна падключэнне для перадачы даных.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Памылка сеткі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Памылка службаў Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Выканайце дзеянне, якое патрабуецца для %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Для службаў Google Play патраб. дзеянне</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Доступ да ўліковых запісаў не падтрымліваецца ў профілю з абмежаваннямі.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Профiль з абмежаваннямі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Памылка пры ўваходзе ў пазначаны ўліковы запіс. Выберыце іншы ўліковы запіс.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Не атрымалася ўвайсці ў сістэму</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">У праграмы %1$s ўзніклі праблемы са службамі Google Play. Калі праблема не знікае, звярніцеся за дапамогай да распрацоўшчыка.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s выкарыстоўвае службы Google Play, якія не падтрымліваюцца вашай прыладай. Звярніцеся за дапамогай да вытворцы.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Абнавіць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Абнаўленне службаў Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Службы Google Play абнаўляюцца</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Адкрыць на тэлефоне</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Увайсцi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Увайсці праз Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Дазволіць рэкламе стварыць падзею календара?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Стварыць падзею календара</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Адхіліць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Дазволіць рэкламе захоўваць выяву ў Галерэі выяў?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Захаваць выяву</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Нүүр хуудас руу шилжих</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Дээш шилжих</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Нэмэлт сонголтууд</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Дууссан</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Бүгдийг харах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Апп сонгох</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ИДЭВХГҮЙ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ИДЭВХТЭЙ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Хайх...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Асуулгыг цэвэрлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Хайх асуулга</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Хайх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Асуулгыг илгээх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Дуут хайлт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Хуваалцах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s-тай хуваалцах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Хумих</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

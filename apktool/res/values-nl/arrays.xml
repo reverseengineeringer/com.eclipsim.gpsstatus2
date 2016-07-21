@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>graden/sec (°/s)</item>
+        <item>mil/sec (mil/s)</item>
+        <item>omw/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 uur</item>
+        <item>6 uur</item>
+        <item>1 dag</item>
+        <item>2 dagen</item>
+        <item>3 dagen</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>NNO</item>
+        <item>NO</item>
+        <item>ONO</item>
+        <item>O</item>
+        <item>OZO</item>
+        <item>ZO</item>
+        <item>ZZO</item>
+        <item>Z</item>
+        <item>ZZW</item>
+        <item>ZW</item>
+        <item>WZW</item>
+        <item>W</item>
+        <item>WNW</item>
+        <item>NW</item>
+        <item>NNW</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>meter, km</item>
+        <item>voet, mijl</item>
+        <item>voet, zeemijl</item>
+        <item>meter, mijl</item>
+        <item>meter, zeemijl</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Geen filtering</item>
+        <item>Zwak</item>
+        <item>Gemiddeld</item>
+        <item>Sterk</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>graden (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>dd.dddddd°</item>
+        <item>"dd°mm.mmm'"</item>
+        <item>"dd°mm'ss.s\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Als GPS in gebruik is</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>graden (°)</item>
+        <item>helling (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>mbar/hPa</item>
+        <item>mmHg</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>technische atmosfeer (at)</item>
+        <item>standaard atmosfeer (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/u</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>knopen</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>°Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Standaard</item>
+        <item>Daglicht</item>
+        <item>Nacht</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Geen advertenties</item>
+        <item>Downloaden van aGPS-gegevens op de achtergrond</item>
+        <item>Meer sensoren op het statusscherm</item>
+        <item>Meerdere waypoints opslaan en op het scherm weergeven</item>
+        <item>Onbeperkt waypoints beheren op een apart Locatiescherm</item>
+        <item>Exporteren, importeren en delen van meerdere waypoints</item>
+        <item>A-GPS-gegevens rechtstreeks vanuit het statusbericht downloaden</item>
+        <item>Sla uw huidige positie op via het statusbericht</item>
+    </string-array>
+</resources>

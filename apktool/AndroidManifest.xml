@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:hardwareAccelerated="true" android:installLocation="auto" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0c00ba" package="com.eclipsim.gpsstatus2" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true"/>
+    <uses-feature android:name="android.hardware.location.gps" android:required="true"/>
+    <uses-feature android:name="android.hardware.location.network" android:required="false"/>
+    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="false"/>
+    <uses-feature android:name="android.hardware.sensor.compass" android:required="false"/>
+    <uses-feature android:name="android.hardware.sensor.light" android:required="false"/>
+    <uses-feature android:name="android.hardware.sensor.barometer" android:required="false"/>
+    <uses-feature android:name="android.hardware.sensor.gyroscope" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="com.eclipsim.gpsstatus2.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.eclipsim.gpsstatus2.permission.C2D_MESSAGE"/>
+    <application android:="true" android:allowBackup="true" android:backupAgent=".MyBackupAgent" android:description="@string/APKTOOL_DUMMYVAL_0x7f080047" android:hardwareAccelerated="true" android:icon="@mipmap/gpsstatus" android:label="@string/APKTOOL_DUMMYVAL_0x7f080048" android:name="o.הּ" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0c00ba">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:icon="@mipmap/gpsstatus" android:label="@string/APKTOOL_DUMMYVAL_0x7f080048" android:launchMode="singleTask" android:name=".GPSStatus" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0c00ba" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.eclipsim.gpsstatus.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="*" android:mimeType="*/*" android:pathPattern=".*\\.csv" android:scheme="file"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="*" android:mimeType="*/*" android:pathPattern=".*\\.kml" android:scheme="file"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="*" android:mimeType="*/*" android:pathPattern=".*\\.gpx" android:scheme="file"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:icon="@mipmap/APKTOOL_DUMMYVAL_0x7f030002" android:label="@string/APKTOOL_DUMMYVAL_0x7f080049" android:launchMode="singleTask" android:name=".RadarStartActivity">
+            <intent-filter>
+                <action android:name="com.google.android.radar.SHOW_RADAR"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="maps.google.com" android:pathPrefix="/maps" android:scheme="http"/>
+                <data android:host="maps.google.com" android:pathPrefix="/maps" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="geo"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:configChanges="keyboardHidden|orientation|screenSize" android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUMMYVAL_0x7f030002" android:label="@string/APKTOOL_DUMMYVAL_0x7f080049" android:launchMode="singleTask" android:name="com.eclipsim.gpsstatus2.Radar" android:targetActivity=".RadarStartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:name="o.ｬ">
+            <intent-filter>
+                <action android:name="PREFERENCES"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.PREFERENCE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:label="@string/APKTOOL_DUMMYVAL_0x7f08017a" android:name="o.ก"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:label="@string/APKTOOL_DUMMYVAL_0x7f080174" android:name="o.ব"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:label="@string/APKTOOL_DUMMYVAL_0x7f08016a" android:name="o.ঢ"/>
+        <provider android:authorities="com.eclipsim.gpsstatus2.poiprovider" android:exported="false" android:name="o.ړ"/>
+        <service android:name="o.ף"/>
+        <receiver android:name="com.eclipsim.gpstoolbox.monitor.GpsBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.location.GPS_ENABLED_CHANGE"/>
+                <action android:name="android.location.PROVIDERS_CHANGED"/>
+                <action android:name="android.location.GPS_FIX_CHANGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="o.ٺ">
+            <intent-filter>
+                <action android:name="com.eclipsim.gpsstatus.HIDE_NOTIFICATION"/>
+                <action android:name="com.eclipsim.gpsstatus.AGPS_DOWNLOAD"/>
+                <action android:name="com.eclipsim.gpsstatus.SAVE_LOCATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.google.android.gms.analytics.CampaignTrackingReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/APKTOOL_DUMMYVAL_0x7f080048" android:name="com.google.android.gms.tagmanager.PreviewActivity" android:noHistory="true">
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.eclipsim.gpsstatus2"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:enabled="@bool/APKTOOL_DUMMYVAL_0x7f0a0004" android:exported="true" android:icon="@drawable/APKTOOL_DUMMYVAL_0x7f02007d" android:label="@string/APKTOOL_DUMMYVAL_0x7f08013a" android:name="com.ipaulpro.afilechooser.FileChooserActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.OPENABLE"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.google.android.backup.api_key" android:value="AEdPqrEAAAAIURZrOd6pkrdOOpxuZ87Gm19zosHrV_XiB_iLPA"/>
+        <activity android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0c0107"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="9256000"/>
+        <uses-library android:name="com.sec.android.app.multiwindow" android:required="false"/>
+        <meta-data android:name="com.sec.android.support.multiwindow" android:value="true"/>
+        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_W" android:value="320.0dip"/>
+        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_H" android:value="480.0dip"/>
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_W" android:value="320.0dip"/>
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H" android:value="480.0dip"/>
+        <receiver android:name=".widget.GPSWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/APKTOOL_DUMMYVAL_0x7f06000a"/>
+        </receiver>
+        <receiver android:label="@string/APKTOOL_DUMMYVAL_0x7f0801b1" android:name=".widget.AGPSWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/APKTOOL_DUMMYVAL_0x7f060000"/>
+        </receiver>
+        <receiver android:label="@string/APKTOOL_DUMMYVAL_0x7f0801b0" android:name=".widget.SaveLocWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/APKTOOL_DUMMYVAL_0x7f060009"/>
+        </receiver>
+        <receiver android:enabled="true" android:name="com.google.android.gms.measurement.AppMeasurementReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <provider android:authorities="com.eclipsim.gpsstatus2.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="o.alm"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.eclipsim.gpsstatus2"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="o.alb"/>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService" android:process=":background_crash"/>
+        <service android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService" android:process=":background_crash"/>
+        <activity android:exported="false" android:name="o.ed" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    </application>
+</manifest>

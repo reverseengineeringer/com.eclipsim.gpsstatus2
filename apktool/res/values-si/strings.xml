@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">පිළිගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s සඳහා දැනට නොතිබෙන Google Play සේවා එකක් හෝ කිහිපයක් අවශ්‍යයි. කරුණාකර සහාය සඳහා සංවර්ධක අමතන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">ඔබ Google Play සේවා සබල කරන්නේ නම් මිස %1$s වැඩ නොකරනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play සේවා සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play සේවා ලබා ගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">ඔබගේ දුරකථනයේ නැති Google Play සේවාවන් නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">ඔබගේ ටැබ්ලට් පරිගණකයේ නැති Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play සේවා ලබා ගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">නියම කර දැක්වූ ගිණුම මෙම උපාංගය මත නොපවතී. කරුණාකර වෙනත් ගිණුමක් තෝරන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">වලංගු නොවන ගිණුම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play සේවා වෙත සබැඳීමට දත්ත සබැඳුමක් අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">ජාල දෝෂය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play සේවා දෝෂය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">කරුණාකර %1$s හට අවශ්‍ය ක්‍රියාව සම්පූර්ණ කරන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play සේවාවලට ක්‍රියාවක් අවශ්‍යයි</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">සීමා කළ පැතිකඩක් වෙතින් ගිණුම්වලට ප්‍රවේශ වීමට සහාය නොදක්වයි.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">සීමා කළ පැතිකඩ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">විශේෂිත ගිණුම පුරනය කිරීමේදී දෝෂයක්. කරුණාකර වෙනස් ගිණුමක් තෝරන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">පුරනය වීම අසාර්ථක විය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s හට Google Play සේවා සමගින් ගැටලු ඇත. ගැටලුව දිගටම පැවතුණහොත්, කරුණාකර සහාය සඳහා සංවර්ධක අමතන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s Google Play සේවා මත යැපෙන අතර, එය වෙත ඔබගේ උපාංගය සහාය නොදක්වයි. කරුණාකර සහාය සඳහා නිෂ්පාදකයා අමතන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play සේවා</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">Google Play සේවා යාවත්කාලීන කරන්නේ නොමැතිව %1$s ධාවනය නොවේ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play සේවා යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">දැනට යාවත්කාලීන කරමින් ඇති, Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play සේවා යාවත්කාලීන කරමින්</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play සේවාවල නව අනුවාදයක් අවශ්‍යයි. එය මද වේලාවකින් එය විසින්ම යාවත්කාලීන වනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">පුරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google සමගින් පුරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">වෙළඳ දැන්වීමට දින දර්ශන සිදුවීමක් සෑදීමට ඉඩ දෙන්නද?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">දින දර්ශන සිදුවීම සාදන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">ප්‍රතික්ෂේප කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">වෙළඳ දැන්වීමට පින්තූර ගැලරිය තුළ රූපය ගබඩා කිරීමට ඉඩ දෙන්නද?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">රූපය සුරකින්න</string>
+</resources>

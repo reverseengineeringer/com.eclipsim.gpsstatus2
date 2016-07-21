@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>度/秒 (°/s)</item>
+        <item>密位/秒 (mil/s)</item>
+        <item>轉/分 (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 小時</item>
+        <item>6小時</item>
+        <item>1 天</item>
+        <item>2 天</item>
+        <item>3 天</item>
+        <item>永不</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>北</item>
+        <item>東北偏北</item>
+        <item>東北</item>
+        <item>東北偏東</item>
+        <item>東</item>
+        <item>東南偏東</item>
+        <item>東南</item>
+        <item>東南偏南</item>
+        <item>南</item>
+        <item>西南偏南</item>
+        <item>西南</item>
+        <item>西南偏西</item>
+        <item>西</item>
+        <item>西北偏西</item>
+        <item>西北</item>
+        <item>西北偏北</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>呎燭光</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>米 (m)</item>
+        <item>呎 (ft)</item>
+        <item>呎 (ft, nautical miles)</item>
+        <item>米，英里（章程）</item>
+        <item>米，一英里（航海）</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>不使用</item>
+        <item>輕度</item>
+        <item>中度</item>
+        <item>強度</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>度（°）</item>
+        <item>密位</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS 網格</item>
+        <item>Maidenhead 格式</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>使用 GPS 時</item>
+        <item>永不</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>度（°）</item>
+        <item>等級（%）</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>毫巴/百帕</item>
+        <item>托 (毫米汞柱)</item>
+        <item>PSI</item>
+        <item>英吋汞柱</item>
+        <item>工業大氣壓 (at)</item>
+        <item>標準大氣壓 (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>千米/每小時 (km/h)</item>
+        <item>公哩/每小時 (mph)</item>
+        <item>米/秒 (m/s)</item>
+        <item>海里 (knots)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>攝氏度</item>
+        <item>華氏度</item>
+        <item>絕對溫度</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>預設</item>
+        <item>早上</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>移除廣告</item>
+        <item>Scheduled aGPS data download in the background</item>
+        <item>More sensors on the Status screen</item>
+        <item>Store and show multiple waypoints on the Radar screen</item>
+        <item>Manage unlimited waypoints on a separate Locations screen</item>
+        <item>Export/import/share multiple waypoints</item>
+        <item>Download aGPS data directly from the status notification</item>
+        <item>Save your current location using the status notification</item>
+    </string-array>
+</resources>

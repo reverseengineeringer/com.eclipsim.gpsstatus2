@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Samþykkja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s krefst einhverrar Google Play þjónustu sem ekki er tiltæk sem stendur. Hafðu samband við þróunaraðilann til að fá aðstoð.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Virkja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Virkja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Sækja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í símann þinn.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í spjaldtölvuna þína.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Sækja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Tilgreindur reikningur er ekki til staðar í þessu tæki. Veldu annan reikning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Ógildur reikningur</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Gagnatengingar er krafist til að tengjast þjónustu Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Netvilla</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Villa í þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Ljúktu við aðgerðina sem %1$s fer fram á.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Þjónusta Google Play krefst aðgerðar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Ekki er stuðningur við aðgang að reikningum af takmörkuðu sniði.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Takmarkað snið</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Villa við að skrá tilgreindan reikning inn. Veldu annan reikning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Innskráning mistókst</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s á í vandræðum með þjónustu Google Play. Ef vandamálið heldur áfram skaltu hafa samband við þróunaraðilann til að fá aðstoð.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s reiðir sig á þjónustu Google Play, sem er ekki studd í tækinu þínu. Hafðu samband við framleiðandann til að fá aðstoð.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Þjónusta Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Uppfæra</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Uppfæra þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Verið er að uppfæra þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Nýja útgáfu af þjónustu Google Play vantar. Hún uppfærir sig sjálf innan skamms.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Opna í símanum</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Skrá inn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Skrá inn með Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Leyfa auglýsingu að búa til dagatalsviðburð?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Búa til dagatalsviðburð</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Hafna</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Leyfa auglýsingu að vista mynd í myndasafninu?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Vista mynd</string>
+</resources>

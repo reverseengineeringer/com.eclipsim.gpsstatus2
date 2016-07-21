@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">ຂຶ້ນເທິງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">ໂຕເລືອກອື່ນ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">ແລ້ວໆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">ເບິ່ງທັງຫມົດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">ເລືອກແອັບຯ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ປິດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ເປີດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">ຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">ຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">ຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">ສົ່ງການຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">ແບ່ງປັນກັບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">ແບ່ງ​ປັນ​ກັບ​ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">ຫຍໍ້</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

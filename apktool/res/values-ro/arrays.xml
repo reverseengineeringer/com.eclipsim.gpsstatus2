@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>grade/sec (°/s)</item>
+        <item>mil/sec (mil/s)</item>
+        <item>rotații pe minut (rot/min)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 oră</item>
+        <item>6 ore</item>
+        <item>1 zi</item>
+        <item>2 zile</item>
+        <item>3 zile</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SV</item>
+        <item>SV</item>
+        <item>V-SV</item>
+        <item>V</item>
+        <item>V-NV</item>
+        <item>NV</item>
+        <item>N-NV</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metri, km</item>
+        <item>picioare, mile (reglementat)</item>
+        <item>picioare, mile (naval)</item>
+        <item>metri, mile (reglementat)</item>
+        <item>metri, mile (naval)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Fără filtrare</item>
+        <item>Slab</item>
+        <item>Mediu</item>
+        <item>Puternic</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>grade (°)</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Când GPS-ul este în uz</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>grade (°)</item>
+        <item>grad (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>milibari/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>atmosferă tehnică (at)</item>
+        <item>atmosferă standard (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>noduri</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>°Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Predefinit</item>
+        <item>Lumina zilei</item>
+        <item>Noapte</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Funcționare fără reclame</item>
+        <item>Scheduled aGPS data download in the background</item>
+        <item>Mai mulți senzori pe ecranul Stare</item>
+        <item>Store and show multiple waypoints on the Radar screen</item>
+        <item>Manage unlimited waypoints on a separate Locations screen</item>
+        <item>Export/import/share multiple waypoints</item>
+        <item>Download aGPS data directly from the status notification</item>
+        <item>Save your current location using the status notification</item>
+    </string-array>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>astetta/sekuntia (°/s)</item>
+        <item>mailia/sekuntia (mil/s)</item>
+        <item>kierrosta/minuutti (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>Tunti</item>
+        <item>6 tuntia</item>
+        <item>1 päivä</item>
+        <item>2 päivää</item>
+        <item>3 päivää</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>P</item>
+        <item>P-KO</item>
+        <item>KO</item>
+        <item>I-KO</item>
+        <item>Itä</item>
+        <item>I-KA</item>
+        <item>KA</item>
+        <item>E-KA</item>
+        <item>E</item>
+        <item>E-LO</item>
+        <item>LO</item>
+        <item>L-LO</item>
+        <item>L</item>
+        <item>L-LU</item>
+        <item>LU</item>
+        <item>P-LU</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>kandela</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metri, km</item>
+        <item>jalka, maili (maamaili)</item>
+        <item>jalka, meripeninkulma</item>
+        <item>metri, maili</item>
+        <item>metri, meripeninkulma</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Ei suodatusta</item>
+        <item>Heikko</item>
+        <item>Kohtalainen</item>
+        <item>Vahva</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>astetta (°)</item>
+        <item>Piirua (6400-jakoinen)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS-ruudukko</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Kun GPS on käytössä</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>astetta (°)</item>
+        <item>Prosentti (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibaari/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>tekninen ilmakehä (at)</item>
+        <item>normaali-ilmakehä (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>solmua</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>Celsiusaste</item>
+        <item>Fahrenheit-aste</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Oletus</item>
+        <item>Päivänvalo</item>
+        <item>Yö</item>
+    </string-array>
+</resources>

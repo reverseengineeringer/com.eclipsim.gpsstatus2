@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>stopinj/sek (°/s)</item>
+        <item>mil/sek (mil/s)</item>
+        <item>vrtljaji/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 ure</item>
+        <item>6 ur</item>
+        <item>1 dneva</item>
+        <item>2 dni</item>
+        <item>3 dni</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>S</item>
+        <item>S-SV</item>
+        <item>SV</item>
+        <item>V-SV</item>
+        <item>V</item>
+        <item>V-JV</item>
+        <item>JV</item>
+        <item>J-JV</item>
+        <item>J</item>
+        <item>J-JZ</item>
+        <item>JZ</item>
+        <item>Z-JZ</item>
+        <item>Z</item>
+        <item>Z-SZ</item>
+        <item>SZ</item>
+        <item>S-SZ</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>čevelj sveča</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>meter, km</item>
+        <item>čevelj, milja (mednar.)</item>
+        <item>čevelj, milja (morska)</item>
+        <item>meter, milja (mednar.)</item>
+        <item>meter, milja (morska)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Brez filtriranja</item>
+        <item>Šibek</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>stopinje (°)</item>
+        <item>mil</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>SS,SSSSSS°</item>
+        <item>"SS°MM,MMM'"</item>
+        <item>"SS°MM'SS,S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Ko je GPS v uporabi</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>stopinje (°)</item>
+        <item>stopnja (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>milibar/hPa</item>
+        <item>tor (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>tehnična atmosfera (at)</item>
+        <item>standardna atmosfera (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>vozli</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>° Celzija</item>
+        <item>° Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Privzeto</item>
+        <item>Dan</item>
+        <item>Noč</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Delovanje brez oglasov</item>
+        <item>Načrtovan prenos podatkov aGPS v ozadju</item>
+        <item>Več senzorjev na zaslonu statusa</item>
+        <item>Shranjevanje in prikaz več točk na zaslonu Radarja</item>
+        <item>Upravljanje z neomejenim št. točk na ločenem zaslonu Lokacij</item>
+        <item>Izvoz/uvoz/deljenje več točk</item>
+        <item>Prenos podatkov aGPS neposredno iz statusnega obvestila</item>
+        <item>Shranjevanje lokacije z uporabo statusnega obvestila</item>
+    </string-array>
+</resources>

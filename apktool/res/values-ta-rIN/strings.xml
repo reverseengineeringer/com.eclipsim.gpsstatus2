@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">முகப்பிற்கு வழிசெலுத்து</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">மேலே வழிசெலுத்து</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">மேலும் விருப்பங்கள்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">முடிந்தது</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">எல்லாம் காட்டு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">பயன்பாட்டைத் தேர்வுசெய்க</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">முடக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">இயக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">தேடு...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">வினவலை அழி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">தேடல் வினவல்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">தேடு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">வினவலைச் சமர்ப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">குரல் தேடல்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">இதனுடன் பகிர்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s உடன் பகிர்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">சுருக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

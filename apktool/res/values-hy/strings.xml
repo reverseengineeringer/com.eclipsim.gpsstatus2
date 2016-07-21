@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Ընդունել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s հավելվածի համար պահանջվում է մեկ կամ մի քանի Google Play ծառայություններ, որոնք այս պահին հասանելի չեն: Օգնություն ստանալու համար կապվեք մշակողի հետ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Միացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Միացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Տեղադրել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր հեռախոսում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր պլանշետում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Տեղադրել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Հաշիվն անվավեր է</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Ցանցի սխալ կա</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play ծառայությունների սխալ կա</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Խնդրում ենք կատարել %1$s հավելվածի կողմից պահանջվող գործողությունը:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play ծառայությունները պահանջում են գործողություն</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Սահմանափակված պրոֆիլից հնարավոր չէ մուտք գործել հաշիվներ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Սահմանափակված պրոֆիլ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Նշված հաշիվ մուտք գործելիս առաջացել է սխալ: Ընտրեք մեկ այլ հաշիվ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Մուտքը ձախողվեց</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Եթե խնդիրը չվերանա, դիմեք մշակողին՝ օգնություն ստանալու համար:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s հավելվածի համար հարկավոր են Google Play ծառայություններ, որոնք ձեր սարքը չի աջակցում: Օգնություն ստանալու համար կապվեք արտադրողի հետ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play ծառայություններ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Թարմացնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Թարմացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play ծառայությունների թարմացում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Բացել հեռախոսով</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Մուտք գործել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Մուտք գործել Google-ով</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Թույլ տա՞լ Գովազդին ստեղծել օրացույցի իրադարձություն:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Ստեղծել օրացույցի իրադարձություն</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Մերժել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Թույլ տա՞լ Գովազդին պահել պատկերը Պատկերասրահում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Պահել պատկերը</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>gradi/sec (°/s)</item>
+        <item>mil/sec (mil/s)</item>
+        <item>rotazioni/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 ora</item>
+        <item>6 ore</item>
+        <item>1 giorno</item>
+        <item>2 giorni</item>
+        <item>3 giorni</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SO</item>
+        <item>SO</item>
+        <item>O-SO</item>
+        <item>O</item>
+        <item>O-NO</item>
+        <item>NO</item>
+        <item>N-NO</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>Candela</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>metri, km</item>
+        <item>piedi, miglia (terrestri)</item>
+        <item>piedi, miglia (nautiche)</item>
+        <item>metri, miglia (terrestri)</item>
+        <item>metri, miglia (nautiche)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Nessun filtro</item>
+        <item>Debole</item>
+        <item>Medio</item>
+        <item>Potente</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>gradi (°)</item>
+        <item>miglia</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>Griglia OS</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Quando il GPS è in uso</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>gradi (°)</item>
+        <item>percentuale (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>millibar/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>atmosfera tecnica (at)</item>
+        <item>atmosfera standard (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>nodi</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Predefinito</item>
+        <item>Diurno</item>
+        <item>Notturno</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000e">
+        <item>Rimozione della pubblicità</item>
+        <item>Scarica dati aGPS pianificati in background</item>
+        <item>Più sensori nella schermata di stato</item>
+        <item>Memorizza e mostra più waypoint sulla schermata del Radar</item>
+        <item>Gestisci illimitati waypoints su una schermata delle Posizioni separata</item>
+        <item>Esportazione/importazione/condivisione di waypoint multipli</item>
+        <item>Scarica i dati aGPS direttamente dalla notifica di stato</item>
+        <item>Salva la posizione corrente mediante la notifica di stato</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Негізгі бетте қозғалу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Жоғары қозғалу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Басқа опциялар</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Дайын</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Барлығын көру</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Қолданбаны таңдау</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">ӨШІРУЛІ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ҚОСУЛЫ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Іздеу…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Сұрақты жою</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Сұрақты іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Сұрақты жіберу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Дауыс арқылы іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Бөлісу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">%s бөлісу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Тасалау</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

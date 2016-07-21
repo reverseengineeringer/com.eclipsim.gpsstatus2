@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Onartu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s erabiltzeko, unean erabilgarri ez dagoen beste Google Play zerbitzu bat edo gehiago behar dira. Laguntza lortzeko, jarri garatzailearekin harremanetan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Gaitu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Gaitu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Lortu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu telefonoan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu tabletan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Lortu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Zehaztutako kontua ez dago gailuan. Aukeratu beste kontu bat.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Kontu baliogabea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Datu-konexioa behar da Google Play zerbitzuetara konektatzeko.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Sareko errorea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play zerbitzuen errorea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Egin %1$s aplikazioak eskatutakoa.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play zerbitzuek zerbait behar dute</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Ez da onartzen profil murriztuetatik kontuetan sartzea.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Profil murriztua</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Errore bat gertatu da zehaztutako kontuan saioa hastean. Aukeratu beste kontu bat.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Ezin izan da hasi saioa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Arazoek badiraute, laguntza lortzeko, jarri garatzailearekin harremanetan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s Google Play zerbitzuetan dago oinarrituta, baina zure gailuak ez ditu onartzen. Laguntza lortzeko, jarri fabrikatzailearekin harremanetan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Eguneratu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Eguneratu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play zerbitzuak eguneratzen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Ireki telefonoan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Hasi saioa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Hasi saioa Google-n</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Iragarkiari egutegiko gertaera sortzea baimendu nahi diozu?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Sortu egutegiko gertaera</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Baztertu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Iragarkiari irudia irudien galerian gordetzea baimendu nahi diozu?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Gorde irudia</string>
+</resources>

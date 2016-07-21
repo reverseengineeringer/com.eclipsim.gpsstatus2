@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">მიღება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s საჭიროებს Google Play Services-ის ერთ ან მეტ ფუნქციას, რომელიც ამჟამად მიუწვდომელია. გთხოვთ, დახმარებისთვის დაუკავშირდეთ დეველოპერს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play სერვისების გააქტიურება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play Services-ის ჩართვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს ტელეფონს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს ტაბლეტს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">ანგარიში არასწორია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play Services-თან დასაკავშირებლად საჭიროა მონაცემთა კავშირი.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">ქსელის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play Services-ის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">გთხოვთ, შეასრულოთ მოქმედება, რომელსაც მოითხოვს %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play services მოითხოვს რეაგირებას</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">შეზღუდული პროფილიდან ანგარიშებზე წვდომა არ არის მხარდაჭერილი.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">შეზღუდული პროფილი</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">მითითებულ ანგარიშზე შესვლის შეცდომა. გთხოვთ აირჩიოთ სხვა ანგარიში.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">შესვლის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s-ს Google Play სერვისებთან პრობლემა შეექმნა. თუ პრობლემა გამეორდება, გთხოვთ, დახმარებისთვის დეველოპერს დაუკავშირდეთ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s დამოკიდებულია Google Play Services-ზე, რომელიც თქვენი მოწყობილობის მიერ არ არის მხარდაჭერილი. გთხოვთ, დახმარებისთვის დაუკავშირდეთ მწარმოებელს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play სერვისები</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">განახლება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">განაახლეთ Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play Services-ის განახლება…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">ტელეფონში გახსნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">შესვლა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google-ით შესვლა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">აძლევთ ნებას რეკლამას, შექმნას მოვლენა კალენდარში?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">კალენდარში მოვლენის შექმნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">უარყოფა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">აძლევთ ნებას რეკლამას, შეინახოს სურათი გალერეაში?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">სურათის შენახვა</string>
+</resources>

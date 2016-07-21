@@ -1,0 +1,18 @@
+package o;
+
+import java.io.IOException;
+
+public final class jp
+  extends IOException
+{
+  public jp(String paramString)
+  {
+    super(paramString);
+  }
+}
+
+/* Location:
+ * Qualified Name:     o.jp
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

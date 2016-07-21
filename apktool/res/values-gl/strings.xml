@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Aceptar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s require un ou máis servizos de Google Play que non están dispoñibles neste momento. Ponte en contacto co programador para obter axuda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Activar servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s non funcionará a menos que actives os servizos de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Activar servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Descargar servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s non se executará se o teu teléfono non ten instalados os servizos de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s non se executará se a túa tableta non ten instalados os servizos de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Descargar servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">A conta especificada non existe neste dispositivo. Escolle unha diferente.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Conta non válida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">É necesario dispoñer dunha conexión de datos para conectarse aos servizos de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Erro de rede</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Erro nos servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Completa a acción que require %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Acción requirida para Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Non se admite o acceso ás contas desde un perfil restrinxido.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Perfil restrinxido</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Produciuse un erro ao iniciar sesión na conta especificada. Escolle unha conta diferente.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Produciuse un erro no inicio de sesión</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s ten problemas cos servizos de Google Play. Se o problema continúa, ponte en contacto co programador para obter axuda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s confía nos servizos de Google Play, que non son compatibles co teu dispositivo. Ponte en contacto co fabricante para obter axuda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Actualizar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s non se executará a menos que actualices os servizos de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Actualizar os servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s non se executará sen os servizos de Google Play, que se están actualizando neste momento.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Actualizando os servizos de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Necesítase a nova versión dos servizos de Google Play. Actualizarase en breve.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Abrir no teléfono</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Iniciar sesión</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Iniciar sesión con Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Queres permitir que Ad cree un evento do calendario?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Crear evento do calendario</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Rexeitar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Queres permitir que Ad almacene imaxes na galería?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Gardar imaxe</string>
+</resources>

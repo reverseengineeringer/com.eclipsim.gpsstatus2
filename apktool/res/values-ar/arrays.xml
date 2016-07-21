@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>درجةا(°/ثا)</item>
+        <item>ملا (ملا)</item>
+        <item>دورة (د)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>ساعة واحدة</item>
+        <item>6 ساعات</item>
+        <item>يوم واحد</item>
+        <item>يومين</item>
+        <item>3 أيام</item>
+        <item>أبداً</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NE</item>
+        <item>NE</item>
+        <item>E-NE</item>
+        <item>E</item>
+        <item>E-SE</item>
+        <item>SE</item>
+        <item>S-SE</item>
+        <item>S</item>
+        <item>S-SW</item>
+        <item>SW</item>
+        <item>W-SW</item>
+        <item>W</item>
+        <item>W-NW</item>
+        <item>NW</item>
+        <item>N-NW</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>لوكس</item>
+        <item>شمعة قدم</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>متر</item>
+        <item>قدم وميل</item>
+        <item>قدم وميل بحري</item>
+        <item>متر، ميل (النظام الأساسي)</item>
+        <item>متر، ميل (بحري)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>بدون تصفية</item>
+        <item>ضعيفة</item>
+        <item>متوسطة</item>
+        <item>قوية</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>درجات (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>شبكة نظام التشغيل</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>عندما يكون الـGPS قيد الإستخدام</item>
+        <item>أبداً</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>درجات (°)</item>
+        <item>الدرجة</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>ميلي بار كتوباسكال</item>
+        <item>تور (ميليمتر زئبقي)</item>
+        <item>بار</item>
+        <item>بوصة زئبقية</item>
+        <item>ضغط جوي تقني (at)</item>
+        <item>ظروف ضغط و حرارة قياسية (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>كيلومتر / ساعة</item>
+        <item>ميل / ساعة</item>
+        <item>متر / ثانية</item>
+        <item>knots</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>درجة مئوية</item>
+        <item>° فهرنهايت</item>
+        <item>كلفن</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>افتراضي</item>
+        <item>نهاري</item>
+        <item>ليلي</item>
+    </string-array>
+</resources>

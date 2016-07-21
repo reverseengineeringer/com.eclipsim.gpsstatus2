@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Зөвшөөрөх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s нь одоогоор ажиллах боломжгүй нэг болон түүнээс дээш Google Play үйлчилгээг шаардаж байна. Тусламж хэрэгтэй бол хөгжүүлэгчтэй холбоо барина уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Google Play үйлчилгээг авах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">Google Play үйлчилгээ нь таны утсанд байхгүй учир %1$s ажиллах боломжгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">Таны таблетад Google Play үйлчилгээ байхгүй учир %1$s ажиллах боломжгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Google Play үйлчилгээг авах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Буруу акаунт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Сүлжээний алдаа</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">%1$s-с шаардсан үйлдлийг дуусгана уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play үйлчилгээ үйлдэл шаардаж байна</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Хязгаарлагдсан профайлаас бүртгэлд хандах боломжгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Хязгаарлагдсан профайл</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Хаягт нэвтрэхэд алдаа гарлаа. Өөр хаяг сонгоно уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Нэвтрэх үйлдэл амжилтгүй болсон байна.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s нь Google Play-н үйлчилгээг ашиглахад алдаа гарлаа. Хэрэв алдаа гарсаар байвал хөгжүүлэгчтэй холбогдож, зөвлөгөө аваарай.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s нь Google Play үйлчилгээний тусламжтай ажилладаг боловч таны төхөөрөмж үүнийг дэмждэггүй. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play үйлчилгээ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play үйлчилгээг шинэчилж байна</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Утсаар нээх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Нэвтрэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Google-р нэвтрэх:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Зарыг хуанлийн үйл явдал үүсгэхийг зөвшөөрөх үү?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Хуанлийн үйл явдал үүсгэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Татгалзах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Зарыг Зургийн цомогт зураг хадгалахыг зөвшөөрөх үү?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Зураг хадгалах</string>
+</resources>

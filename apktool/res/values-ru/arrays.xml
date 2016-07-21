@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>градусов/сек (°/с)</item>
+        <item>миль/сек (мл/с)</item>
+        <item>Об/мин.</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>2 дня</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>С</item>
+        <item>С-СВ</item>
+        <item>СВ</item>
+        <item>В-СВ</item>
+        <item>В</item>
+        <item>В-ЮВ</item>
+        <item>ЮВ</item>
+        <item>Ю-ЮВ</item>
+        <item>Ю</item>
+        <item>Ю-ЮЗ</item>
+        <item>ЮЗ</item>
+        <item>З-ЮЗ</item>
+        <item>З</item>
+        <item>З-СЗ</item>
+        <item>СЗ</item>
+        <item>С-СЗ</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>люкс</item>
+        <item>Фут</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>метры</item>
+        <item>футы, мили</item>
+        <item>футы, морские мили</item>
+        <item>метр, мили</item>
+        <item>метры, морские мили</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Без фильтрации</item>
+        <item>Слабая</item>
+        <item>Средняя</item>
+        <item>Сильная</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>градусы (°)</item>
+        <item>мили</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>ГГ.ГГГГГГ°</item>
+        <item>ГГ°ММ.МММ′</item>
+        <item>ГГ°ММ′СС.С″</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>Сетка OS</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>Когда используется GPS</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>градусы (°)</item>
+        <item>уровень (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>миллибар/гПа</item>
+        <item>торр (mmHg)</item>
+        <item>psi</item>
+        <item>рт.ст.</item>
+        <item>Техническая атмосфера (ТА)</item>
+        <item>Стандартная атмосфера (АТМ)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>км/ч</item>
+        <item>мили/ч</item>
+        <item>м/с</item>
+        <item>узлы</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>° Цельсия</item>
+        <item>° Фаренгейта</item>
+        <item>Кельвины</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Обычная</item>
+        <item>Дневная</item>
+        <item>Ночная</item>
+    </string-array>
+</resources>

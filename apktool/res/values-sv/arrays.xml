@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>grader/sek (°/s)</item>
+        <item>mils/sek (mils/s)</item>
+        <item>varv/min (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1 timme</item>
+        <item>6 timmar</item>
+        <item>1 dag</item>
+        <item>2 dagar</item>
+        <item>3 dagar</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>N-NÖ</item>
+        <item>NÖ</item>
+        <item>Ö-NÖ</item>
+        <item>Ö</item>
+        <item>Ö-SÖ</item>
+        <item>SÖ</item>
+        <item>S-SÖ</item>
+        <item>S</item>
+        <item>S-SV</item>
+        <item>SV</item>
+        <item>V-SV</item>
+        <item>V</item>
+        <item>V-NV</item>
+        <item>NV</item>
+        <item>N-NV</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>foot candle</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>meter, km</item>
+        <item>fot, mile (US survey)</item>
+        <item>fot, mile (Internationell fot resp. nautisk mil)</item>
+        <item>meter, mile (US statute/survey mile)</item>
+        <item>meter, mile (Internationell nautisk)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>Ingen filtrering</item>
+        <item>Svag</item>
+        <item>Mellan</item>
+        <item>Stark</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>grader (°)</item>
+        <item>mils</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OS Grid</item>
+        <item>Maidenhead</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>När GPS används</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>grader (°)</item>
+        <item>lutning (%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>mbar hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>teknisk atmosfär (at)</item>
+        <item>standardatmosfär (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>knop</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>°Celsius</item>
+        <item>°Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>Standard</item>
+        <item>Dagsljus</item>
+        <item>Natt</item>
+    </string-array>
+</resources>

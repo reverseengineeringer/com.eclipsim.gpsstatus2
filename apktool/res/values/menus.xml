@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100000">\u001e\u001e\u0009</item>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100001">　 </item>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100002">  \u0009</item>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100003">\u000c\u001e\u0009</item>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100004">  </item>
+    <item type="menu" name="APKTOOL_DUMMYVAL_0x7f100005">  \u0009</item>
+</resources>

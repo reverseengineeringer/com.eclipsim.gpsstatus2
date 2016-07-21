@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090000">
+        <item>度/秒 （°/s）</item>
+        <item>mil/sec (mil/s)</item>
+        <item>回転/分 (rpm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090001">
+        <item>1時間</item>
+        <item>6時間</item>
+        <item>1日</item>
+        <item>2日</item>
+        <item>3日</item>
+        <item>しない</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090002">
+        <item>N</item>
+        <item>北北東</item>
+        <item>北東</item>
+        <item>東北東</item>
+        <item>E</item>
+        <item>東南東</item>
+        <item>南東</item>
+        <item>南南東</item>
+        <item>S</item>
+        <item>南南西</item>
+        <item>南西</item>
+        <item>西南西</item>
+        <item>W</item>
+        <item>西北西</item>
+        <item>北西</item>
+        <item>北北西</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090003">
+        <item>lux</item>
+        <item>フィート燭</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090004">
+        <item>メートル、キロメートル</item>
+        <item>フィート、マイル(法定)</item>
+        <item>フィート、マイル(海里)</item>
+        <item>メートル、マイル(法定)</item>
+        <item>メートル、マイル(海里)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090005">
+        <item>フィルタなし</item>
+        <item>弱</item>
+        <item>中</item>
+        <item>強</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090006">
+        <item>度(°)</item>
+        <item>ミル(mil)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090007">
+        <item>DD.DDDDDD°</item>
+        <item>"DD°MM.MMM'"</item>
+        <item>"DD°MM'SS.S\""</item>
+        <item>UTM</item>
+        <item>MGRS</item>
+        <item>CH1903</item>
+        <item>OSグリッド</item>
+        <item>グリッド・ロケーター</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090008">
+        <item>GPS使用時</item>
+        <item>しない</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f090009">
+        <item>度(°)</item>
+        <item>百分率(%)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000a">
+        <item>ミリバール/hPa</item>
+        <item>torr (mmHg)</item>
+        <item>psi</item>
+        <item>inHg</item>
+        <item>工学気圧 (at)</item>
+        <item>標準大気圧 (atm)</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000b">
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>ノット</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000c">
+        <item>摂氏</item>
+        <item>華氏</item>
+        <item>ケルビン</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f09000d">
+        <item>標準</item>
+        <item>昼間</item>
+        <item>夜間</item>
+    </string-array>
+</resources>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Navigate home</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Navigate up</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">More options</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Done</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">See all</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Choose an app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">OFF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">ON</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Search…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">Clear query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">Search query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">Submit query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Voice search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Share with</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080011">Share with %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Collapse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Accept</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Get Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Get Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Invalid Account</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">A data connection is required to connect to Google Play services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Network Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Google Play services error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Please complete action required by %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Google Play services requires an action</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Restricted Profile</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Error signing in the specified account. Please choose a different account.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Sign in failed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">"%1$s won't run unless you update Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Update Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Google Play services are updating</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Open on phone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Sign in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Sign in with Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Allow Ad to create a calendar event?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Create calendar event</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Decline</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Allow Ad to store image in Picture gallery?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Save image</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080039">Latitude</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003a">Longitude</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003b">About</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003c">About this program</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003d">Accel. (g)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003e">AGPS age</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08003f">Altitude</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080040">Manual altitude correction. The value must be provided in meter regardless of your unit settings.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080041">Altitude correction</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080042">Manually calibrate your altitude</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080043">Altitude correction</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080044">Select what unit to use to display rotation values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080045">Angular speed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080046">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080047">Show GPS and sensor data.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080048">GPS Status</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080049">Radar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004a">Download if older than</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004b">Download the AGPS data from the internet automatically on startup</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004c">Auto-download AGPS data</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004d">Background behavior</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004e">Configure how the application behaves in the background</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08004f">"The PRO license key seems to be too old.
+
+"<small>Please update or uninstall/reinstall it from the <b>Play Store</b> and restart the program!</small></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080050">Share your location via QR codes. Integrates into the Share menu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080051">Barcode Scanner</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080052">Batt.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080053">↑ AC</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080054">↑ USB</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080055">Brightness</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080056">Select what unit to use to display brighness values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080057">Brightness</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080058">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080059">To calibrate your compass, rotate your device 1-2 times around each of its 3 axes then press Ok.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005a">Calibrate the compass</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005b">Calibrate</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005c">Average</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005d">"Place your phone on a flat and horizontal surface and press the Calibrate button.
+
+If you are not sure that the surface was horizontal, return to this dialog after the first calibration, rotate your phone 180° keeping it at the same spot on the surface and press the Average button."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005e">Pitch and roll calibration</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08005f">Calibrate pitch and roll</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080060">Color temp.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080063">a</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080064">p</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080065">Delete</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080066">Delete selected location(s)?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080067">Dewpoint</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080068">D</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080069">L</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006a">R</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006b">U</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006c">Display &amp; Tools</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006d">Configure the display settings and enable or disable different tools</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006e">Dist.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08006f">Select what unit to use to display distances</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080070">Distance</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080071">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080072">"You seem to be running an ad-free version of GPS Status.
+
+"<small>"Former donators are entitled to request a free PRO license. Please go to the Donator email setting and replace your key with the email address you were using when you have donated for the project. Restart the application after you have received your license. If you have problems, please contact us!
+
+"</small>Thank you again for supporting the app development.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080073">DOP/HDOP/VDOP</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080074">easting</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080075">Send a recommendation or report a bug (in English only please)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080076">Send e-mail to the developer</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080077">Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080078">GPS Status EULA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007a">Read the program help, FAQ and release notes pages</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007b">Help &amp; release notes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007c">Select filter strength</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007d">Stronger filters will produce a more stable, but slightly slower measurement</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007e">Sensor filtering</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08007f">Use English even if the phone has different default language (requires program restart).</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080080">Force English UI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080081">ft</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080082">Get PRO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080083">Get PRO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080085">Support the development of the program and get additional features</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080086">Get the PRO version</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080087">Follow us on Google+ and get GPS related tips &amp; tricks</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080088">GPS Status on Google+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080089">GPS is currently disabled.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008a">The app will keep the GPS running even when the device screen is turned off</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008b">Use GPS when screen is off</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008c">grid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008d">Heading</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008e">Heading (GPS)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08008f">Select what unit to use to display heading values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080090">Heading</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080091">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080092">Humidex</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080093">Humidity</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080094">km</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080095">km/h</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080096">knots</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080097">Last fix</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009a">Select what format and datum to use when displaying your location</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009b">Location format</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009c">Select format</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009d">A clean and powerful on/off line map program, with navigation, POI, track logging and geocaching support. Integrates into the Map menu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009e">Locus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08009f">Looking for GPS location...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a2">m</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a3">Mag. field (μT)/decl.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a4">"Press 'Reset' to clear all cached GPS data (cold start).
+
+Press 'Download' to get GPS assistance data from the internet. This will speed up your GPS for a few days, but requires an active data connection (only for the download)."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a5">A-GPS XTRA Data</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a6">Download</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a7">Reset</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a8">Manage A-GPS state</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800a9">About</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800aa">Compass calibration</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ab">Default Map</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ac">Get PRO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ad">Help</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ae">Locations</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800af">Add location</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b0">Delete selected</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b1">Export</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b2">Import</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b3">Select all</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b5">Radar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b6">Settings</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b7">Share</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800b8">Copy to clipboard</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800bc">Show on Map</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800bd">Status</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c1">mile</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c2">Show all applications written by MobiWIA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c3">Our Apps</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c4">"You have started the application from the notification bar. Just wait for a GPS lock and return to the original application by pressing the back button.
+
+"<small>You can disable the GPS monitor in the application settings.</small></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c5">mph</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c6">m/s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c7">MSL</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c8">Whether altitude is relative to the mean sea level or to the WGS84 ellipsoid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800c9">Mean Sea Level altitude</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ca">I am here</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800cb">Write NMEA sentences to the system log. Use a system log viewer (like CatLog) and filter for the \"nmea\" tag.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800cc">NMEA logging</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800cd">This phone does not have a compass sensor. Compass functions will be disabled in the program.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ce">No saved waypoints.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800cf">No program found to handle location url.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d0">northing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d2">Keep the screen on</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d3">Show notification</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d4">Show GPS status information in the notification area when other programs access the GPS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d5">GPS status in notification bar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d6">SAT</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d7">SIG</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d8">TTF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800d9">Orientation</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800da">A full featured on/off line map program, with navigation and geocaching support. Integrates into the Map menu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800db">OruxMaps</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800dc">Osmand+ (Open Street Maps Android) is an opensource navigation application with raster/vector maps.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800dd">OsmAnd+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800de">d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800df">h</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e0">Select what unit to use to display pitch/roll/grade values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e1">Roll and pitch</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e2">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e3">Pitch/Roll</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e5">Location</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e6">Name</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e7">Edit POI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e8">Edit target</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800e9">Set target</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ea">Position</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800eb">Pressure</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ec">Select what unit to use to display pressure values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ed">Pressure</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ee">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ef">Rate me</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f0">Recommend GPS Status to your friends and followers</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f1">Recommend me</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f2">"This is a great application. Helps you with your GPS problems.
+
+Download GPS Status from:
+%s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f3">We recommend these programs as they have some level of integration with GPS Status</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f4">Apps to download</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f5">Reject</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f6">Rotation</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f7">Fix/Sats.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f8">Save as POI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800f9">GPS &amp; Sensors</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800fa">Choose how GPS and sensor data is used and calibrate or reset the sensors or the GPS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800fc" formatted="false">I am here: %loc% %url%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800fd">Sharing message</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800fe">Change the message used when sharing your location</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0800ff">Sharing template</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080100">Show the time required for the first fix after starting the GPS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080101">Show time to GPS fix</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080102">Show a bubble that helps horizontal and vertical alignment</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080103">Show leveling tool</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080104">Show a small circle that indicates the pitch of your device</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080105">Show pitch indicator</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080106">Displays an additional icon to start Radar directly from launcher</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080107">Show Radar in launcher</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080108">Show the GPS time in UTC instead of local time</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080109">Show UTC time</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010a">Speed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010b">Select what unit to use to display speed values</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010c">Speed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010d">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010e">Steps</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08010f">Support the development</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080110">Target</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080111">Target (bearing)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080112">Temperature</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080113">Select what unit to use to display temperatures</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080114">Temperature</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080115">Select unit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080117">Color themes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080119">Accelerometer calibrated</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08011b">Export failed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08011c">Export finished</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08011d">Time to first GPS fix:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08011e">Invalid location specified.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08011f">Current location set as target</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080120">The current location has been copied to the clipboard</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080121">Selected locations have been copied to the clipboard</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080122">GPS Assistance data downloaded</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080123">Internal GPS state cleared</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080124">License check failed. Check your e-mail address or network connection.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080125">Successfully registered</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080126">Target location removed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080127">Target location saved as POI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080128">Units &amp; Formatting</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080129">Select what units and formatting to use when displaying data on the screen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012a">Update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012b">Use as Target</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012c">Use the GPS speed (above 5 km/h) to set the orientation of the grid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012d">Lock to GPS speed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012e">WGS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08012f">"What's New in %s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080130">Whether to report a non-accelerating phone as 0g or 1g</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080131">Zero based acceleration</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080132">Accelerometer</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080133">Enter your license key (or email) you have received from the developer</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080134">Custom license</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080135">Ambient temperature</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080136">App Info</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080137">Pick an application</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080138">Join the test community and help the development with your feedback</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080139">Want to receive early releases?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013a">Select a file</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013b">Join the translation community to fix translation issues</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013c">Translation problems?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013d">Possible malfunction, tap for details!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013e">Not present on the device.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08013f">GPS sensor</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080140">Available</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080141">Not available</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080142">far</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080143">near</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080144">active</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080145">idle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080146">Diagnose sensors</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080147">Try holding the device close to your skin!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080148">Try breathing on the device!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080149">Try moving the device towards a light source!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014a">Try moving the device!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014b">Try lifting the device!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014c">Try touching the proximity sensor!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014d">Try rotating the device!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014e">Try taking a few steps!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08014f">Try moving the device towards a heat source!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080150">The %s sensor might be malfunctioning</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080151">Location export in progress</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080152">Exporting locations</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080153">Location import in progress</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080154">Importing locations</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080155">Empty Directory</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080156">Error selecting File</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080157">format</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080158">type</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080159">file</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015a">text</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015b">You need the PRO version of the app to use this feature.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015c">You need the PRO version of the app to save/import more POIs.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015d">"You can re-download your license key here if you've previously purchased it on the Play Store"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015e">Retrieve your license key</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08015f">Gravity</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080160">Gyroscope</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080161">Gyroscope (uncalibrated)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080162">Heart rate counter</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080164">Light</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080165">Linear acceleration</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080166">Magnetic field (uncalibrated)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080167">Magnetic field</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080168">aGPS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080169">Hide</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016a">Open source libraries</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016b">Open source libraries used by the application</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016c">"If you want to import POIs from files you need to allow us to access your device's local storage."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016d">Why is storage access required?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016e">The main purpose of GPS Status &amp; Toolbox is to show you all the data coming from the GPS and other phone sensors. The application is useless if you deny this permission.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08016f">Why is location access required?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080170">PRO Advantages</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080171">Proximity</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080172">Relative humidity</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080173">Rotation vector</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080174">Sensors</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080175">Step counter</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080176">Step detector</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080177">Storage was removed or unmounted.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080178">Preview</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080179">Select color theme</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017a">Themes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017b">This feature is available in the PRO version</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017c">Error during purchase, please try again later. Error code: %d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017d">We are sorry seeing you go. Please come back later to support the app development. Have fun with the app!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017e">Cannot purchase in app products right now, please update your Play Store app and try again later</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08017f">GPS is not present in this device</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080180">Import failed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080181">Import successful</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080182">Internet connection is required to download aGPS data</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080183">New target set</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080184">{0} POI updated.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080185">Thank you for purchasing GPS Status PRO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080186">aFileChooser</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080187">0</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080188">0</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080189">0</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08018b">https://play.google.com/store/apps/developer?id=MobiWIA+-+EclipSim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08018c">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08018d">https://play.google.com/store/apps/details?id=com.google.zxing.client.android&amp;utm_medium=referral&amp;utm_source=gpsstatus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08018e">https://play.google.com/apps/testing/com.eclipsim.gpsstatus2</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08018f">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080190">%1$d / %2$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080191">https://crowdin.net/project/gps-status</string>
+    <string name="default_web_client_id">527324957561-p0jvqvgk5tlcabuq2k3f0jdberl6u010.apps.googleusercontent.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080194">mailto:support@eclipsim.com?subject=GPS Status</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080195"><b><small>IMPORTANT! PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING TO USE THIS PROGRAM: This End-User License Agreement (EULA) is a legal agreement between you (either an individual or a single entity) and MobiWIA Ltd. for the <b>GPS Status and Toolbox</b>" software product identified above which may include associated software components, and online or electronic documentation (SOFTWARE PRODUCT). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and MobiWIA Ltd., (referred to as licenser), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+
+1. "<b>GRANT OF LICENSE</b>" 
+The SOFTWARE PRODUCT is licensed as follows: 
+(a) "<i>Installation and Use</i>". 
+MobiWIA Ltd. grants you the right to install and use copies of the SOFTWARE PRODUCT on your Android based device. 
+(b) "<i>Backup Copies</i>". 
+You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes. 
+
+2. "<b>DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS</b>" 
+(a) "<i>Maintenance of Copyright Notices</i>". 
+You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT. 
+(b) "<i>Distribution</i>". 
+You may not distribute copies of the SOFTWARE PRODUCT to third parties. 
+(c) "<i>Prohibition on Reverse Engineering</i>". 
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+(d) "<i>Rental</i>". 
+You may not rent, lease, or lend the SOFTWARE PRODUCT. 
+(e) "<i>Support Services</i>". 
+MobiWIA Ltd. may provide you with support services related to the SOFTWARE PRODUCT (Support Services). 
+(f) "<i>Compliance with Applicable Laws</i>". 
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT. 
+
+3. "<b>TERMINATION</b>" 
+Without prejudice to any other rights, MobiWIA Ltd. may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession. 
+
+4. "<b>COPYRIGHT</b>" 
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by MobiWIA Ltd. or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by MobiWIA Ltd. 
+
+5. "<b>NO WARRANTIES</b>" 
+MobiWIA Ltd. expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided As Is without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. MobiWIA Ltd. does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. MobiWIA Ltd. further expressly disclaims any warranty or representation to Authorized Users or to any third party. 
+
+6. "<b>LIMITATION OF LIABILITY</b>" 
+In no event shall MobiWIA Ltd. be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of Authorized Users use of or inability to use the SOFTWARE PRODUCT, even if MobiWIA Ltd. has been advised of the possibility of such damages. In no event will MobiWIA Ltd. be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. MobiWIA Ltd. shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information. 
+
+7. "<b>PRIVACY POLICY</b>" 
+The SOFTWARE PRODUCT is using advertising identifiers to personalise ads and to gather usage statistics. We also share such identifiers and other personally non-identifiable information from your device with our advertising and analytics partners. We do not collect any personally identifiable information without your explicit consent. "</small></b></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080199">http://mobiwia.com/gpsstatus</string>
+    <string name="firebase_database_url">https://gps-status-and-toolbox.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">527324957561</string>
+    <string name="google_api_key">AIzaSyDH4P2HJ5NQN4rOLLMcL_LB3xjuytClDoA</string>
+    <string name="google_app_id">1:527324957561:android:e82f44f41bf1d08f</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDH4P2HJ5NQN4rOLLMcL_LB3xjuytClDoA</string>
+    <string name="google_storage_bucket">gps-status-and-toolbox.appspot.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a0">http://plus.google.com/108645865096444330025</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a2">https://play.google.com/store/apps/details?id=menion.android.locus&amp;utm_medium=referral&amp;utm_source=gpsstatus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a4">OK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a5">https://play.google.com/store/apps/details?id=com.orux.oruxmaps&amp;utm_medium=referral&amp;utm_source=gpsstatus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a6">https://play.google.com/store/apps/details?id=net.osmand.plus&amp;utm_medium=referral&amp;utm_source=gpsstatus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801a8">https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801ad">Location name cannot be empty.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801ae">Location saved</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801af"><small>"
+"<b>- NEW</b>": Rewritten locations screen 
+"<b>- NEW</b>": Add new POIs directly on the Locations screen (with a new floating action button) 
+"<b>- NEW</b>": Reorder POIs on Locations screen by long tapping and dragging 
+"<b>- ENH</b>": Enhanced Edit location dialog. Better error reporting + clear and set current location buttons. 
+"<b>- NEW</b>": Categorize your POIs with colors 
+"<b>- ENH</b>": Added shortcuts on the Sensor test screen for Compass calibration and aGPS download. 
+"<b>- ENH</b>": Translation updates 
+"<b>- FIX</b>: Stability fixes </small>" "</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801b0">Save location</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0801b1">Update AGPS</string>
+    <item type="string" name="APKTOOL_DUMMY_61">false</item>
+    <item type="string" name="APKTOOL_DUMMY_62">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_118">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_193">false</item>
+    <item type="string" name="APKTOOL_DUMMY_196">false</item>
+    <item type="string" name="APKTOOL_DUMMY_197">false</item>
+    <item type="string" name="APKTOOL_DUMMY_198">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ac">false</item>
+</resources>

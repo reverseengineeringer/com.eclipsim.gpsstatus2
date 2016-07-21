@@ -1,0 +1,234 @@
+package o;
+
+public enum iw
+{
+  private final String amN;
+  
+  static
+  {
+    aiA = new iw("CAMPAIGN_NO_KEY", 31, "campaign_no_key");
+    aiB = new iw("CAMPAIGN_SOURCE_KEY", 32, "campaign_source_key");
+    aiC = new iw("CAMPAIGN_SOURCE_OVERRIDE", 33, "campaign_source_override");
+    aiD = new iw("CAMPAIGN_TERM_KEY", 34, "campaign_term_key");
+    aiE = new iw("CAMPAIGN_TERM_OVERRIDE", 35, "campaign_term_override");
+    aiF = new iw("CAMPAIGN_TRACK", 36, "campaign_track");
+    aiG = new iw("CATEGORY", 37, "category");
+    aiH = new iw("CHECK_VALIDATION", 38, "check_validation");
+    aiI = new iw("CHILD_INDEX", 39, "child_index");
+    aiJ = new iw("CLEAR_PERSISTENT_DATA_LAYER_PREFIX", 40, "clear_data_layer_prefix");
+    aiK = new iw("CLICK_ID", 41, "click_id");
+    aiL = new iw("CLIENT_INFO", 42, "client_info");
+    aiM = new iw("COLLECT_ADID", 43, "collect_adid");
+    aiN = new iw("COMPANY", 44, "company");
+    aiO = new iw("COMPONENT", 45, "component");
+    aiP = new iw("CONTENT_DESCRIPTION", 46, "content_description");
+    aiQ = new iw("CONTENT_GROUP", 47, "content_group");
+    aiR = new iw("CONVERSION_ID", 48, "conversion_id");
+    aiS = new iw("COOKIE_DOMAIN", 49, "cookie_domain");
+    aiT = new iw("COOKIE_EXPIRATION", 50, "cookie_expiration");
+    aiU = new iw("COOKIE_NAME", 51, "cookie_name");
+    aiV = new iw("COOKIE_PATH", 52, "cookie_path");
+    aiW = new iw("COOKIE_PATH_COPY", 53, "cookie_path_copy");
+    aiX = new iw("COUNTRY", 54, "country");
+    aiY = new iw("CSS_ID", 55, "css_id");
+    aiZ = new iw("CSS_IMPORTANT", 56, "css_important");
+    aja = new iw("CSS_PROPERTY", 57, "css_property");
+    ajb = new iw("CSS_RULE", 58, "css_rule");
+    ajc = new iw("CSS_VALUE", 59, "css_value");
+    ajd = new iw("CURRENCY_CODE", 60, "currency_code");
+    aje = new iw("CUSTOM_URL_SOURCE", 61, "custom_url_source");
+    ajf = new iw("CUSTOM_VARS", 62, "custom_vars");
+    ajg = new iw("CUSTOMER_ID", 63, "customer_id");
+    ajh = new iw("DATA_LAYER_VERSION", 64, "data_layer_version");
+    aji = new iw("DATA_PROVIDER_ID", 65, "data_provider_id");
+    ajj = new iw("DEBUG", 66, "debug");
+    ajk = new iw("DECODE", 67, "decode");
+    ajl = new iw("DECORATE_FORM", 68, "decorate_form");
+    ajm = new iw("DECORATE_FORMS_AUTO_LINK", 69, "decorate_forms_auto_link");
+    ajn = new iw("DECORATE_LINK", 70, "decorate_link");
+    ajo = new iw("DEFAULT_PAGES", 71, "default_pages");
+    ajp = new iw("DEFAULT_VALUE", 72, "default_value");
+    ajq = new iw("DEPENDENCIES", 73, "dependencies");
+    ajr = new iw("DETECT_FLASH", 74, "detect_flash");
+    ajs = new iw("DETECT_TITLE", 75, "detect_title");
+    ajt = new iw("DIMENSION", 76, "dimension");
+    aju = new iw("DISPATCH_ON_FIRE", 77, "dispatch_on_fire");
+    ajv = new iw("DOMAIN_NAME", 78, "domain_name");
+    ajw = new iw("DOUBLE_CLICK", 79, "double_click");
+    ajx = new iw("ECOMMERCE_MACRO_DATA", 80, "ecommerce_macro_data");
+    ajy = new iw("ECOMMERCE_USE_DATA_LAYER", 81, "ecommerce_use_data_layer");
+    ajz = new iw("ELEMENT", 82, "element");
+    ajA = new iw("ELEMENT_ID", 83, "element_id");
+    ajB = new iw("ELEMENTS", 84, "elements");
+    ajC = new iw("EMAIL", 85, "email");
+    ajD = new iw("EMPLOYEE_RANGE", 86, "employee_range");
+    ajE = new iw("ENABLE_ECOMMERCE", 87, "enable_ecommerce");
+    ajF = new iw("ENABLE_ALL_VIDEOS", 88, "enable_all_videos");
+    ajG = new iw("ENABLE_PRODUCT_REPORTING", 89, "enable_product_reporting");
+    ajH = new iw("ENABLE_REMARKETING_LISTS", 90, "enable_remarketing_lists");
+    ajI = new iw("ESCAPE", 91, "escape");
+    ajJ = new iw("EVENT_ACTION", 92, "event_action");
+    ajK = new iw("EVENT_CATEGORY", 93, "event_category");
+    ajL = new iw("EVENT_LABEL", 94, "event_label");
+    ajM = new iw("EVENT_VALUE", 95, "event_value");
+    ajN = new iw("EXCEPTION_DESCRIPTION", 96, "exception_description");
+    ajO = new iw("EXCEPTION_FATAL", 97, "exception_fatal");
+    ajP = new iw("EXPERIMENT_COMBINATION", 98, "experiment_combination");
+    ajQ = new iw("EXPERIMENT_ID", 99, "experiment_id");
+    ajR = new iw("EXPERIMENT_KEY", 100, "experiment_key");
+    ajS = new iw("EXPIRATION_DAY", 101, "expiration_day");
+    ajT = new iw("EXPIRATION_DATES", 102, "expiration_dates");
+    ajU = new iw("FAILED_BEHAVIOR", 103, "failed_behavior");
+    ajV = new iw("FIELDS_TO_SET", 104, "fields_to_set");
+    ajW = new iw("FORCE_SSL", 105, "force_ssl");
+    ajX = new iw("FORM_OBJECT", 106, "form_object");
+    ajY = new iw("FUNCTION", 107, "function");
+    ajZ = new iw("FUNCTION_CALL_NAME", 108, "function_call_macro_name");
+    aka = new iw("GROUP", 109, "group");
+    akb = new iw("HIT_CALLBACK", 110, "hit_callback");
+    akc = new iw("HIT_LEVEL_FIELDS_TO_SET", 111, "hit_level_fields_to_set");
+    akd = new iw("HTML", 112, "html");
+    ake = new iw("ID", 113, "id");
+    akf = new iw("IGNORED_ORGANIC", 114, "ignored_organic");
+    akg = new iw("IGNORED_REF", 115, "ignored_ref");
+    akh = new iw("IGNORE_CASE", 116, "ignore_case");
+    aki = new iw("INPUT", 117, "input");
+    akj = new iw("INPUT_FORMAT", 118, "input_format");
+    akk = new iw("INSTANCE_NAME", 119, "instance_name");
+    akl = new iw("INSTANCE_LABEL", 120, "instance_label");
+    akm = new iw("INTERNAL", 121, "internal");
+    akn = new iw("INTERVAL", 122, "interval");
+    ako = new iw("ITEM_SEPARATOR", 123, "item_separator");
+    akp = new iw("JAVASCRIPT", 124, "javascript");
+    akq = new iw("JSON", 125, "json");
+    akr = new iw("KEYWORD", 126, "keyword");
+    aks = new iw("KEY_VALUE_SEPARATOR", 127, "key_value_separator");
+    akt = new iw("LABEL", 128, "label");
+    aku = new iw("LANGUAGE", 129, "language");
+    akv = new iw("LIMIT", 130, "limit");
+    akw = new iw("LINK", 131, "link");
+    akx = new iw("LINK_BY_POST", 132, "link_by_post");
+    aky = new iw("LINK_ID", 133, "link_id");
+    akz = new iw("LIVE_ONLY", 134, "live_only");
+    akA = new iw("LOCAL_GIF_PATH", 135, "local_gif_path");
+    akB = new iw("LOCALE", 136, "locale");
+    akC = new iw("LOCATION", 137, "location");
+    akD = new iw("MALWARE_DISABLED", 138, "malware_disabled");
+    akE = new iw("MAP", 139, "map");
+    akF = new iw("MAX", 140, "max");
+    akG = new iw("METRIC", 141, "metric");
+    akH = new iw("MIN", 142, "min");
+    akI = new iw("MODE", 143, "mode");
+    akJ = new iw("NAME", 144, "name");
+    akK = new iw("NAMESPACE_CODE", 145, "namespace_code");
+    akL = new iw("NAMESPACE_ID", 146, "namespace_id");
+    akM = new iw("NAMESPACE_VALUE", 147, "namespace_value");
+    akN = new iw("NEW_STATE", 148, "new_state");
+    akO = new iw("NONINTERACTION", 149, "noninteraction");
+    akP = new iw("NOT_DEFAULT_MACRO", 150, "not_default_macro");
+    akQ = new iw("NO_PADDING", 151, "no_padding");
+    akR = new iw("NUMBER", 152, "number");
+    akS = new iw("ONCE_PER_EVENT", 153, "once_per_event");
+    akT = new iw("ONCE_PER_LOAD", 154, "once_per_load");
+    akU = new iw("OPTOUT", 155, "optout");
+    akV = new iw("ORDER", 156, "order");
+    akW = new iw("ORDER_ID", 157, "order_id");
+    akX = new iw("ORDER_VALUE", 158, "order_value");
+    akY = new iw("ORDINAL", 159, "ordinal");
+    akZ = new iw("ORGANIC", 160, "organic");
+    ala = new iw("OUTPUT_FORMAT", 161, "output_format");
+    alb = new iw("PAGE", 162, "page");
+    alc = new iw("PAGE_PATH", 163, "page_path");
+    ald = new iw("PARAMS", 164, "params");
+    ale = new iw("PARTITION", 165, "partition");
+    alf = new iw("PERCENTAGE", 166, "percentage");
+    alg = new iw("PIXEL", 167, "pixel");
+    alh = new iw("PLACEMENT", 168, "placement");
+    ali = new iw("PLATFORM", 169, "platform");
+    alj = new iw("POSITION", 170, "position");
+    alk = new iw("PRICES", 171, "prices");
+    all = new iw("PRIORITY", 172, "priority");
+    alm = new iw("PRODUCT", 173, "product");
+    aln = new iw("PRODUCT_DATA", 174, "product_data");
+    alo = new iw("PRODUCT_ID", 175, "product_id");
+    alp = new iw("PRODUCT_IDS", 176, "product_ids");
+    alq = new iw("PRODUCT_SETTING_FIELD_PATH", 177, "product_setting_field_path");
+    alr = new iw("PUSH_AFTER_EVALUATE", 178, "push_after_evaluate");
+    als = new iw("QUANTITY", 179, "quantity");
+    alt = new iw("QUERY_KEY", 180, "query_key");
+    alu = new iw("QUERY_LISTS", 181, "query_lists");
+    alv = new iw("REFERRER", 182, "referrer");
+    alw = new iw("REFERRER_OVERRIDE", 183, "referrer_override");
+    alx = new iw("REQUIRES_CONTENT", 184, "requires_content");
+    aly = new iw("REVENUE", 185, "revenue");
+    alz = new iw("SAMPLE_RATE", 186, "sample_rate");
+    alA = new iw("SECTION_INDEX", 187, "section_index");
+    alB = new iw("SELECTOR", 188, "selector");
+    alC = new iw("SEND_HITS_TO_GOOGLE", 189, "send_hits_to_google");
+    alD = new iw("SESSION_CONTROL", 190, "session_control");
+    alE = new iw("SESSION_COOKIE_TIMEOUT", 191, "session_cookie_timeout");
+    alF = new iw("SETUP_TAGS", 192, "setup_tags");
+    alG = new iw("SITE_SPEED_SAMPLE_RATE", 193, "site_speed_sample_rate");
+    alH = new iw("SOCIAL_ACTION", 194, "social_action");
+    alI = new iw("SOCIAL_ACTION_TARGET", 195, "social_action_target");
+    alJ = new iw("SOCIAL_NETWORK", 196, "social_network");
+    alK = new iw("SOCIAL_USE_DATA_LAYER", 197, "social_use_data_layer");
+    alL = new iw("SERVER_SIDE", 198, "server_side");
+    alM = new iw("STANDARD_INDUSTRIAL_CLASSIFICATION", 199, "standard_industrial_classification");
+    alN = new iw("STRING", 200, "string");
+    alO = new iw("STRIP_WWW", 201, "strip_www");
+    alP = new iw("TAG_ID", 202, "tag_id");
+    alQ = new iw("TAG_LIST", 203, "tag_list");
+    alR = new iw("TAG_LIST_CONTEXT", 204, "tag_list_context");
+    alS = new iw("TAG_LIST_INDEX", 205, "tag_list_index");
+    alT = new iw("TAG_REFERENCE", 206, "tag_reference");
+    alU = new iw("TARGET_CSS_ID", 207, "target_css_id");
+    alV = new iw("TARGET_ELEMENTS", 208, "target_elements");
+    alW = new iw("TARGET_SELECTOR", 209, "target_selector");
+    alX = new iw("TARGET_URL", 210, "target_url");
+    alY = new iw("TEARDOWN_TAGS", 211, "teardown_tags");
+    alZ = new iw("TEXT", 212, "text");
+    ama = new iw("TIMING_CATEGORY", 213, "timing_category");
+    amb = new iw("TIMING_LABEL", 214, "timing_label");
+    amc = new iw("TIMING_SAMPLE_RATE", 215, "timing_sample_rate");
+    amd = new iw("TIMING_VALUE", 216, "timing_value");
+    ame = new iw("TIMING_VAR", 217, "timing_var");
+    amf = new iw("TITLE", 218, "title");
+    amg = new iw("TRACK_APPVIEW", 219, "track_appview");
+    amh = new iw("TRACK_DATA", 220, "track_data");
+    ami = new iw("TRACK_EVENT", 221, "track_event");
+    amj = new iw("TRACK_EXCEPTION", 222, "track_exception");
+    amk = new iw("TRACK_SOCIAL", 223, "track_social");
+    aml = new iw("TRACK_TIMING", 224, "track_timing");
+    amm = new iw("TRACK_TRANSACTION", 225, "track_transaction");
+    amn = new iw("TRACKER_NAME", 226, "tracker_name");
+    amo = new iw("TRACKING_ID", 227, "tracking_id");
+    amp = new iw("TRANSACTION_DATALAYER_MAP", 228, "transaction_datalayer_map");
+    amq = new iw("TRANSACTION_ID", 229, "transaction_id");
+    amr = new iw("TRANSACTION_ITEM_DATALAYER_MAP", 230, "transaction_item_datalayer_map");
+    ams = new iw("TRANSACTION_VARIABLE", 231, "transaction_variable");
+    amt = new iw("TREATMENT_ID", 232, "treatment_id");
+    amu = new iw("TYPE", 233, "type");
+    amv = new iw("UNIQUE_TRIGGER_ID", 234, "unique_trigger_id");
+    amw = new iw("UNLIMITED", 235, "unlimited");
+    amx = new iw("UNREPEATABLE", 236, "unrepeatable");
+    amy = new iw("URL", 237, "url");
+    amz = new iw("USE_DATA_LAYER", 238, "use_data_layer");
+  }
+  
+  private iw(String paramString)
+  {
+    amN = paramString;
+  }
+  
+  public final String toString()
+  {
+    return amN;
+  }
+}
+
+/* Location:
+ * Qualified Name:     o.iw
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

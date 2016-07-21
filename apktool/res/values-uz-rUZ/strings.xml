@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080000">Boshiga o‘tish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080003">Yuqoriga o‘tish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080004">Qo‘shimcha sozlamalar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080005">Tayyor</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080006">Barchasini ko‘rish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080007">Dastur tanlang</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080008">O‘CHIQ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080009">YONIQ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000a">Qidirish…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000b">So‘rovni tozalash</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000c">So‘rovni izlash</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000d">Qidirish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000e">So‘rov yaratish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08000f">Ovozli qidiruv</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080010">Bo‘lishish:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080012">Yig‘ish</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080036">999+</string>
+</resources>

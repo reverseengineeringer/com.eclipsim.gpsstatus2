@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0057" parent="@style/APKTOOL_DUMMYVAL_0x7f0c007e" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c0058" parent="@style/APKTOOL_DUMMYVAL_0x7f0c007f" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0c007e" parent="@style/APKTOOL_DUMMYVAL_0x7f0c0059">
+        <item name="APKTOOL_DUMMYVAL_0x7f01004e">?android:actionModeShareDrawable</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010069">?android:editTextBackground</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0c007f" parent="@style/APKTOOL_DUMMYVAL_0x7f0c005b">
+        <item name="APKTOOL_DUMMYVAL_0x7f01004e">?android:actionModeShareDrawable</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f010069">?android:editTextBackground</item>
+    </style>
+</resources>

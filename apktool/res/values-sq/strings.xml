@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f080013">Prano</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080014">%1$s kërkon një ose më shumë shërbime të \"Luaj me Google\" që aktualisht janë të papërdorshme. Kontakto me zhvilluesin për ndihmë.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080015">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080016">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080017">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080018">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080019">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat mungojnë në telefonin tënd.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001a">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat mungojnë në tabletin tënd.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001b">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001c">Llogaria e specifikuar nuk ekziston në këtë pajisje. Zgjidh një llogari tjetër.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001d">Llogari e pavlefshme</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001e">"Kërkohet një lidhje të dhënash për t'u lidhur me shërbimet e \"Luaj me Google\"."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08001f">Gabim rrjeti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080020">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080021">Përfundoje veprimin e kërkuar nga %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080022">Shërbimet e \"Luaj me Google\" kërkojnë veprim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080023">Qasja në llogaritë me profil të kufizuar nuk mbështetet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080024">Profil i kufizuar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080025">Gabim gjatë identifikimit në llogarinë e specifikuar. Zgjidh një llogari tjetër.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080026">Identifikimi dështoi!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080027">%1$s ka probleme me shërbimet e \"Luaj me Google\". Nëse problemi vazhdon, kontakto me zhvilluesin për ndihmë.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080028">%1$s mbështetet në shërbimet e \"Luaj me Google\", të cilat nuk mbështeten nga pajisja jote. Kontakto me prodhuesin për ndihmë.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080029">Shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002a">Përditëso</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002b">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002c">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002d">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002e">Shërbimet e \"Luaj me Google\" po përditësohen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f08002f">Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080030">Hape në telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080031">Identifikohu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080032">Identifikohu me Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080033">Lejo që reklama të krijojë një ngjarje në kalendar?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080034">Krijo një ngjarje në kalendar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080035">Refuzo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080037">Lejo që reklama të ruajë imazhin në \"Galerinë e fotografive\"?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f080038">Ruaje imazhin</string>
+</resources>
